@@ -1,0 +1,4065 @@
+[
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "RIDAGEYR",
+    "text": "Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 79",
+        "label": "Range of Values"
+      },
+      {
+        "code": "80",
+        "label": "80 years of age and over"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Age in years at screening",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#RIDAGEYR"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "RIAGENDR",
+    "text": "Gender of the participant.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Male"
+      },
+      {
+        "code": "2",
+        "label": "Female"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Gender",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#RIAGENDR"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "RIDRETH3",
+    "text": "Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Mexican American"
+      },
+      {
+        "code": "2",
+        "label": "Other Hispanic"
+      },
+      {
+        "code": "3",
+        "label": "Non-Hispanic White"
+      },
+      {
+        "code": "4",
+        "label": "Non-Hispanic Black"
+      },
+      {
+        "code": "6",
+        "label": "Non-Hispanic Asian"
+      },
+      {
+        "code": "7",
+        "label": "Other Race - Including Multi-Racial"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Race/Hispanic origin w/ NH Asian",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#RIDRETH3"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "DMDEDUC2",
+    "text": "What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?",
+    "target": "Both males and females 20 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Less than 9th grade"
+      },
+      {
+        "code": "2",
+        "label": "9-11th grade (Includes 12th grade with no diploma)"
+      },
+      {
+        "code": "3",
+        "label": "High school graduate/GED or equivalent"
+      },
+      {
+        "code": "4",
+        "label": "Some college or AA degree"
+      },
+      {
+        "code": "5",
+        "label": "College graduate or above"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't Know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Education level - Adults 20+",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#DMDEDUC2"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "DMDEDUC3",
+    "text": "What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?",
+    "target": "Both males and females 6 YEARS -\n\t\t\t19 YEARS",
+    "codes": [
+      {
+        "code": "0",
+        "label": "Never attended / kindergarten only"
+      },
+      {
+        "code": "1",
+        "label": "1st grade"
+      },
+      {
+        "code": "2",
+        "label": "2nd grade"
+      },
+      {
+        "code": "3",
+        "label": "3rd grade"
+      },
+      {
+        "code": "4",
+        "label": "4th grade"
+      },
+      {
+        "code": "5",
+        "label": "5th grade"
+      },
+      {
+        "code": "6",
+        "label": "6th grade"
+      },
+      {
+        "code": "7",
+        "label": "7th grade"
+      },
+      {
+        "code": "8",
+        "label": "8th grade"
+      },
+      {
+        "code": "9",
+        "label": "9th grade"
+      },
+      {
+        "code": "10",
+        "label": "10th grade"
+      },
+      {
+        "code": "11",
+        "label": "11th grade"
+      },
+      {
+        "code": "12",
+        "label": "12th grade, no diploma"
+      },
+      {
+        "code": "13",
+        "label": "High school graduate"
+      },
+      {
+        "code": "14",
+        "label": "GED or equivalent"
+      },
+      {
+        "code": "15",
+        "label": "More than high school"
+      },
+      {
+        "code": "55",
+        "label": "Less than 5th grade"
+      },
+      {
+        "code": "66",
+        "label": "Less than 9th grade"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't Know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Education level - Children/Youth 6-19",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#DMDEDUC3"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "INDHHIN2",
+    "text": "Total household income (reported as a range value in dollars)",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "$ 0 to $ 4,999"
+      },
+      {
+        "code": "2",
+        "label": "$ 5,000 to $ 9,999"
+      },
+      {
+        "code": "3",
+        "label": "$10,000 to $14,999"
+      },
+      {
+        "code": "4",
+        "label": "$15,000 to $19,999"
+      },
+      {
+        "code": "5",
+        "label": "$20,000 to $24,999"
+      },
+      {
+        "code": "6",
+        "label": "$25,000 to $34,999"
+      },
+      {
+        "code": "7",
+        "label": "$35,000 to $44,999"
+      },
+      {
+        "code": "8",
+        "label": "$45,000 to $54,999"
+      },
+      {
+        "code": "9",
+        "label": "$55,000 to $64,999"
+      },
+      {
+        "code": "10",
+        "label": "$65,000 to $74,999"
+      },
+      {
+        "code": "12",
+        "label": "$20,000 and Over"
+      },
+      {
+        "code": "13",
+        "label": "Under $20,000"
+      },
+      {
+        "code": "14",
+        "label": "$75,000 to $99,999"
+      },
+      {
+        "code": "15",
+        "label": "$100,000 and Over"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Annual household income",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#INDHHIN2"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "INDFMIN2",
+    "text": "Total family income (reported as a range value in dollars)",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "$ 0 to $ 4,999"
+      },
+      {
+        "code": "2",
+        "label": "$ 5,000 to $ 9,999"
+      },
+      {
+        "code": "3",
+        "label": "$10,000 to $14,999"
+      },
+      {
+        "code": "4",
+        "label": "$15,000 to $19,999"
+      },
+      {
+        "code": "5",
+        "label": "$20,000 to $24,999"
+      },
+      {
+        "code": "6",
+        "label": "$25,000 to $34,999"
+      },
+      {
+        "code": "7",
+        "label": "$35,000 to $44,999"
+      },
+      {
+        "code": "8",
+        "label": "$45,000 to $54,999"
+      },
+      {
+        "code": "9",
+        "label": "$55,000 to $64,999"
+      },
+      {
+        "code": "10",
+        "label": "$65,000 to $74,999"
+      },
+      {
+        "code": "12",
+        "label": "$20,000 and Over"
+      },
+      {
+        "code": "13",
+        "label": "Under $20,000"
+      },
+      {
+        "code": "14",
+        "label": "$75,000 to $99,999"
+      },
+      {
+        "code": "15",
+        "label": "$100,000 and Over"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Annual family income",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#INDFMIN2"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "INDFMPIR",
+    "text": "A ratio of family income to poverty guidelines.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 4.99",
+        "label": "Range of Values"
+      },
+      {
+        "code": "5",
+        "label": "Value greater than or equal to 5.00"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Ratio of family income to poverty",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#INDFMPIR"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "RIDSTATR",
+    "text": "Interview and examination status of the participant.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Interviewed only"
+      },
+      {
+        "code": "2",
+        "label": "Both interviewed and MEC examined"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Interview/Examination status",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#RIDSTATR"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "WTMEC2YR",
+    "text": "Both interviewed and MEC examined participants.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 222579.78343",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Full sample 2 year MEC exam weight",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#WTMEC2YR"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "SDMVSTRA",
+    "text": "Masked variance unit pseudo-stratum variable for variance estimation",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "90 to 103",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Masked variance pseudo-stratum",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#SDMVSTRA"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "SDMVPSU",
+    "text": "Masked variance unit pseudo-PSU variable for variance estimation",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1 to 3",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Masked variance pseudo-PSU",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#SDMVPSU"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "DEMO",
+    "source_variable": "RIDEXPRG",
+    "text": "Pregnancy status for females between 20 and 44 years of age at the time of MEC exam.",
+    "target": "Females only 20 YEARS -\n\t\t\t44 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes, positive lab pregnancy test or self-reported pregnant at exam"
+      },
+      {
+        "code": "2",
+        "label": "The participant was not pregnant at exam"
+      },
+      {
+        "code": "3",
+        "label": "Cannot ascertain if the participant is pregnant at exam"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Pregnancy status at exam",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm#RIDEXPRG"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPX",
+    "source_variable": "BPXSY1",
+    "text": "Systolic:  Blood pressure (first reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "74 to 238",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (1st rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm#BPXSY1"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPX",
+    "source_variable": "BPXSY2",
+    "text": "Systolic:  Blood pressure (second reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "74 to 234",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (2nd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm#BPXSY2"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPX",
+    "source_variable": "BPXSY3",
+    "text": "Systolic:  Blood pressure (third reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "74 to 232",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (3rd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm#BPXSY3"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPX",
+    "source_variable": "BPXSY4",
+    "text": "Systolic:  Blood pressure (fourth reading if necessary) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "78 to 226",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (4th rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm#BPXSY4"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPX",
+    "source_variable": "BPXDI1",
+    "text": "Diastolic:  Blood pressure (first reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 120",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (1st rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm#BPXDI1"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPX",
+    "source_variable": "BPXDI2",
+    "text": "Diastolic: Blood pressure (second reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 134",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (2nd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm#BPXDI2"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPX",
+    "source_variable": "BPXDI3",
+    "text": "Diastolic: Blood pressure (third reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 128",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (3rd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm#BPXDI3"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPX",
+    "source_variable": "BPXDI4",
+    "text": "Diastolic: Blood pressure (fourth reading if necessary) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 130",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (4th rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm#BPXDI4"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPQ",
+    "source_variable": "BPQ020",
+    "text": "{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypertension, also called high blood pressure?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Ever told you had high blood pressure",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPQ_G.htm#BPQ020"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPQ",
+    "source_variable": "BPQ040A",
+    "text": "Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to . . . take prescribed medicine?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Taking prescription for hypertension",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPQ_G.htm#BPQ040A"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BPQ",
+    "source_variable": "BPQ050A",
+    "text": "HELP AVAILABLE (Are you/Is SP) now taking prescribed medicine",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Now taking prescribed medicine for HBP",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPQ_G.htm#BPQ050A"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "HIQ",
+    "source_variable": "HIQ011",
+    "text": "The (first/next) questions are about health insurance. {Are you/Is SP} covered by health insurance or some other kind of health care plan?  [Include health insurance obtained through employment or purchased directly as well as government programs like Medicare and Medicaid that provide medical care or help pay medical bills.]",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Covered by health insurance",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/HIQ_G.htm#HIQ011"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "HIQ",
+    "source_variable": "HIQ210",
+    "text": "In the past 12 months, was there any time when {you/SP} did not have any health insurance coverage?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Time when no insurance in past year?",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/HIQ_G.htm#HIQ210"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "HUQ",
+    "source_variable": "HUQ030",
+    "text": "Is there a place that {you/SP} usually {go/goes} when {you are/he/she is} sick or {you/s/he} need{s} advice about {your/his/her} health?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "There is no place"
+      },
+      {
+        "code": "3",
+        "label": "There is more than one place"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Routine place to go for healthcare",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/HUQ_G.htm#HUQ030"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "HUQ",
+    "source_variable": "HUQ040",
+    "text": "What kind of place {do you/does SP} go to most often:  is it a clinic, doctor's office, emergency room, or some other place?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Clinic or health center"
+      },
+      {
+        "code": "2",
+        "label": "Doctor's office or HMO"
+      },
+      {
+        "code": "3",
+        "label": "Hospital emergency room"
+      },
+      {
+        "code": "4",
+        "label": "Hospital outpatient department"
+      },
+      {
+        "code": "5",
+        "label": "Some other place"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Type place most often go for healthcare",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/HUQ_G.htm#HUQ040"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "BMX",
+    "source_variable": "BMXBMI",
+    "text": "Body Mass Index (kg/m**2)",
+    "target": "Both males and females 2 YEARS -\n\t\t\t150 YEARS",
+    "codes": [],
+    "label": "Body Mass Index (kg/m**2)",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BMX_G.htm#BMXBMI"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "SMQ",
+    "source_variable": "SMQ020",
+    "text": "These next questions are about cigarette smoking and other tobacco use. {Have you/Has SP} smoked at least 100 cigarettes in {your/his/her} entire life?",
+    "target": "Both males and females 20 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Smoked at least 100 cigarettes in life",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/SMQ_G.htm#SMQ020"
+  },
+  {
+    "cycle": "2011\u20132012",
+    "suffix": "G",
+    "component": "SMQ",
+    "source_variable": "SMQ040",
+    "text": "{Do you/Does SP} now smoke cigarettes . .",
+    "target": "Both males and females 20 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Every day"
+      },
+      {
+        "code": "2",
+        "label": "Some days"
+      },
+      {
+        "code": "3",
+        "label": "Not at all"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Do you now smoke cigarettes",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/SMQ_G.htm#SMQ040"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "RIDAGEYR",
+    "text": "Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 79",
+        "label": "Range of Values"
+      },
+      {
+        "code": "80",
+        "label": "80 years of age and over"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Age in years at screening",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#RIDAGEYR"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "RIAGENDR",
+    "text": "Gender of the participant.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Male"
+      },
+      {
+        "code": "2",
+        "label": "Female"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Gender",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#RIAGENDR"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "RIDRETH3",
+    "text": "Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Mexican American"
+      },
+      {
+        "code": "2",
+        "label": "Other Hispanic"
+      },
+      {
+        "code": "3",
+        "label": "Non-Hispanic White"
+      },
+      {
+        "code": "4",
+        "label": "Non-Hispanic Black"
+      },
+      {
+        "code": "6",
+        "label": "Non-Hispanic Asian"
+      },
+      {
+        "code": "7",
+        "label": "Other Race - Including Multi-Racial"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Race/Hispanic origin w/ NH Asian",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#RIDRETH3"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "DMDEDUC2",
+    "text": "What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?",
+    "target": "Both males and females 20 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Less than 9th grade"
+      },
+      {
+        "code": "2",
+        "label": "9-11th grade (Includes 12th grade with no diploma)"
+      },
+      {
+        "code": "3",
+        "label": "High school graduate/GED or equivalent"
+      },
+      {
+        "code": "4",
+        "label": "Some college or AA degree"
+      },
+      {
+        "code": "5",
+        "label": "College graduate or above"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't Know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Education level - Adults 20+",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#DMDEDUC2"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "DMDEDUC3",
+    "text": "What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?",
+    "target": "Both males and females 6 YEARS -\n\t\t\t19 YEARS",
+    "codes": [
+      {
+        "code": "0",
+        "label": "Never attended / kindergarten only"
+      },
+      {
+        "code": "1",
+        "label": "1st grade"
+      },
+      {
+        "code": "2",
+        "label": "2nd grade"
+      },
+      {
+        "code": "3",
+        "label": "3rd grade"
+      },
+      {
+        "code": "4",
+        "label": "4th grade"
+      },
+      {
+        "code": "5",
+        "label": "5th grade"
+      },
+      {
+        "code": "6",
+        "label": "6th grade"
+      },
+      {
+        "code": "7",
+        "label": "7th grade"
+      },
+      {
+        "code": "8",
+        "label": "8th grade"
+      },
+      {
+        "code": "9",
+        "label": "9th grade"
+      },
+      {
+        "code": "10",
+        "label": "10th grade"
+      },
+      {
+        "code": "11",
+        "label": "11th grade"
+      },
+      {
+        "code": "12",
+        "label": "12th grade, no diploma"
+      },
+      {
+        "code": "13",
+        "label": "High school graduate"
+      },
+      {
+        "code": "14",
+        "label": "GED or equivalent"
+      },
+      {
+        "code": "15",
+        "label": "More than high school"
+      },
+      {
+        "code": "55",
+        "label": "Less than 5th grade"
+      },
+      {
+        "code": "66",
+        "label": "Less than 9th grade"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't Know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Education level - Children/Youth 6-19",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#DMDEDUC3"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "INDHHIN2",
+    "text": "Total household income (reported as a range value in dollars)",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "$ 0 to $ 4,999"
+      },
+      {
+        "code": "2",
+        "label": "$ 5,000 to $ 9,999"
+      },
+      {
+        "code": "3",
+        "label": "$10,000 to $14,999"
+      },
+      {
+        "code": "4",
+        "label": "$15,000 to $19,999"
+      },
+      {
+        "code": "5",
+        "label": "$20,000 to $24,999"
+      },
+      {
+        "code": "6",
+        "label": "$25,000 to $34,999"
+      },
+      {
+        "code": "7",
+        "label": "$35,000 to $44,999"
+      },
+      {
+        "code": "8",
+        "label": "$45,000 to $54,999"
+      },
+      {
+        "code": "9",
+        "label": "$55,000 to $64,999"
+      },
+      {
+        "code": "10",
+        "label": "$65,000 to $74,999"
+      },
+      {
+        "code": "12",
+        "label": "$20,000 and Over"
+      },
+      {
+        "code": "13",
+        "label": "Under $20,000"
+      },
+      {
+        "code": "14",
+        "label": "$75,000 to $99,999"
+      },
+      {
+        "code": "15",
+        "label": "$100,000 and Over"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Annual household income",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#INDHHIN2"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "INDFMIN2",
+    "text": "Total family income (reported as a range value in dollars)",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "$ 0 to $ 4,999"
+      },
+      {
+        "code": "2",
+        "label": "$ 5,000 to $ 9,999"
+      },
+      {
+        "code": "3",
+        "label": "$10,000 to $14,999"
+      },
+      {
+        "code": "4",
+        "label": "$15,000 to $19,999"
+      },
+      {
+        "code": "5",
+        "label": "$20,000 to $24,999"
+      },
+      {
+        "code": "6",
+        "label": "$25,000 to $34,999"
+      },
+      {
+        "code": "7",
+        "label": "$35,000 to $44,999"
+      },
+      {
+        "code": "8",
+        "label": "$45,000 to $54,999"
+      },
+      {
+        "code": "9",
+        "label": "$55,000 to $64,999"
+      },
+      {
+        "code": "10",
+        "label": "$65,000 to $74,999"
+      },
+      {
+        "code": "12",
+        "label": "$20,000 and Over"
+      },
+      {
+        "code": "13",
+        "label": "Under $20,000"
+      },
+      {
+        "code": "14",
+        "label": "$75,000 to $99,999"
+      },
+      {
+        "code": "15",
+        "label": "$100,000 and Over"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Annual family income",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#INDFMIN2"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "INDFMPIR",
+    "text": "A ratio of family income to poverty guidelines.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 4.99",
+        "label": "Range of Values"
+      },
+      {
+        "code": "5",
+        "label": "Value greater than or equal to 5.00"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Ratio of family income to poverty",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#INDFMPIR"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "RIDSTATR",
+    "text": "Interview and examination status of the participant.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Interviewed only"
+      },
+      {
+        "code": "2",
+        "label": "Both interviewed and MEC examined"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Interview/Examination status",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#RIDSTATR"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "WTMEC2YR",
+    "text": "Full sample 2 year MEC exam weight.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "3748.417657 to 171395.2649",
+        "label": "Range of Values"
+      },
+      {
+        "code": "0",
+        "label": "Not MEC Examined"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Full sample 2 year MEC exam weight",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#WTMEC2YR"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "SDMVSTRA",
+    "text": "Masked variance unit pseudo-stratum variable for variance estimation",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "104 to 118",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Masked variance pseudo-stratum",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#SDMVSTRA"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "SDMVPSU",
+    "text": "Masked variance unit pseudo-PSU variable for variance estimation",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1 to 2",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Masked variance pseudo-PSU",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#SDMVPSU"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "DEMO",
+    "source_variable": "RIDEXPRG",
+    "text": "Pregnancy status for females between 20 and 44 years of age at the time of MEC exam.",
+    "target": "Females only 20 YEARS -\n\t\t\t44 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes, positive lab pregnancy test or self-reported pregnant at exam"
+      },
+      {
+        "code": "2",
+        "label": "The participant was not pregnant at exam"
+      },
+      {
+        "code": "3",
+        "label": "Cannot ascertain if the participant is pregnant at exam"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Pregnancy status at exam",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm#RIDEXPRG"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPX",
+    "source_variable": "BPXSY1",
+    "text": "Systolic:  Blood pressure (first reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "66 to 228",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (1st rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm#BPXSY1"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPX",
+    "source_variable": "BPXSY2",
+    "text": "Systolic:  Blood pressure (second reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "66 to 230",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (2nd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm#BPXSY2"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPX",
+    "source_variable": "BPXSY3",
+    "text": "Systolic:  Blood pressure (third reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "62 to 228",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (3rd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm#BPXSY3"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPX",
+    "source_variable": "BPXSY4",
+    "text": "Systolic:  Blood pressure (fourth reading if necessary) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "80 to 212",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (4th rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm#BPXSY4"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPX",
+    "source_variable": "BPXDI1",
+    "text": "Diastolic:  Blood pressure (first reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 122",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (1st rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm#BPXDI1"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPX",
+    "source_variable": "BPXDI2",
+    "text": "Diastolic: Blood pressure (second reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 116",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (2nd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm#BPXDI2"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPX",
+    "source_variable": "BPXDI3",
+    "text": "Diastolic: Blood pressure (third reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 118",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (3rd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm#BPXDI3"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPX",
+    "source_variable": "BPXDI4",
+    "text": "Diastolic: Blood pressure (fourth reading if necessary) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 128",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (4th rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm#BPXDI4"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPQ",
+    "source_variable": "BPQ020",
+    "text": "{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypertension, also called high blood pressure?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Ever told you had high blood pressure",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPQ_H.htm#BPQ020"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPQ",
+    "source_variable": "BPQ040A",
+    "text": "Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to . . . take prescribed medicine?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Taking prescription for hypertension",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPQ_H.htm#BPQ040A"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BPQ",
+    "source_variable": "BPQ050A",
+    "text": "HELP AVAILABLE (Are you/Is SP) now taking prescribed medicine",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Now taking prescribed medicine for HBP",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPQ_H.htm#BPQ050A"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "HIQ",
+    "source_variable": "HIQ011",
+    "text": "The (first/next) questions are about health insurance. {Are you/Is SP} covered by health insurance or some other kind of health care plan?  [Include health insurance obtained through employment or purchased directly as well as government programs like Medicare and Medicaid that provide medical care or help pay medical bills.]",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Covered by health insurance",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/HIQ_H.htm#HIQ011"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "HIQ",
+    "source_variable": "HIQ210",
+    "text": "In the past 12 months, was there any time when {you/SP} did not have any health insurance coverage?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Time when no insurance in past year?",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/HIQ_H.htm#HIQ210"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "HUQ",
+    "source_variable": "HUQ030",
+    "text": "Is there a place that {you/SP} usually {go/goes} when {you are/he/she is} sick or {you/s/he} need{s} advice about {your/his/her} health?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "There is no place"
+      },
+      {
+        "code": "3",
+        "label": "There is more than one place"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Routine place to go for healthcare",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/HUQ_H.htm#HUQ030"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "HUQ",
+    "source_variable": "HUQ041",
+    "text": "{What kind of place is it - a clinic, doctor's office, emergency room, or some other place?} {What kind of place {do you/does SP} go to most often - a clinic, doctor's office, emergency room, or some other place?}",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Clinic or health center"
+      },
+      {
+        "code": "2",
+        "label": "Doctor's office or HMO"
+      },
+      {
+        "code": "3",
+        "label": "Hospital emergency room"
+      },
+      {
+        "code": "4",
+        "label": "Hospital outpatient department"
+      },
+      {
+        "code": "5",
+        "label": "Some other place"
+      },
+      {
+        "code": "6",
+        "label": "Doesn't go to one place most often"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Type place most often go for healthcare",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/HUQ_H.htm#HUQ041"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "BMX",
+    "source_variable": "BMXBMI",
+    "text": "Body Mass Index (kg/m**2)",
+    "target": "Both males and females 2 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "12.1 to 82.9",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Body Mass Index (kg/m**2)",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BMX_H.htm#BMXBMI"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "SMQ",
+    "source_variable": "SMQ020",
+    "text": "These next questions are about cigarette smoking and other tobacco use. {Have you/Has SP} smoked at least 100 cigarettes in {your/his/her} entire life?",
+    "target": "Both males and females 18 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Smoked at least 100 cigarettes in life",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/SMQ_H.htm#SMQ020"
+  },
+  {
+    "cycle": "2013\u20132014",
+    "suffix": "H",
+    "component": "SMQ",
+    "source_variable": "SMQ040",
+    "text": "{Do you/Does SP} now smoke cigarettes?",
+    "target": "Both males and females 18 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Every day"
+      },
+      {
+        "code": "2",
+        "label": "Some days"
+      },
+      {
+        "code": "3",
+        "label": "Not at all"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Do you now smoke cigarettes",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/SMQ_H.htm#SMQ040"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "RIDAGEYR",
+    "text": "Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 79",
+        "label": "Range of Values"
+      },
+      {
+        "code": "80",
+        "label": "80 years of age and over"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Age in years at screening",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#RIDAGEYR"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "RIAGENDR",
+    "text": "Gender of the participant.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Male"
+      },
+      {
+        "code": "2",
+        "label": "Female"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Gender",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#RIAGENDR"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "RIDRETH3",
+    "text": "Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Mexican American"
+      },
+      {
+        "code": "2",
+        "label": "Other Hispanic"
+      },
+      {
+        "code": "3",
+        "label": "Non-Hispanic White"
+      },
+      {
+        "code": "4",
+        "label": "Non-Hispanic Black"
+      },
+      {
+        "code": "6",
+        "label": "Non-Hispanic Asian"
+      },
+      {
+        "code": "7",
+        "label": "Other Race - Including Multi-Racial"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Race/Hispanic origin w/ NH Asian",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#RIDRETH3"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "DMDEDUC2",
+    "text": "What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?",
+    "target": "Both males and females 20 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Less than 9th grade"
+      },
+      {
+        "code": "2",
+        "label": "9-11th grade (Includes 12th grade with no diploma)"
+      },
+      {
+        "code": "3",
+        "label": "High school graduate/GED or equivalent"
+      },
+      {
+        "code": "4",
+        "label": "Some college or AA degree"
+      },
+      {
+        "code": "5",
+        "label": "College graduate or above"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't Know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Education level - Adults 20+",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#DMDEDUC2"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "DMDEDUC3",
+    "text": "What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?",
+    "target": "Both males and females 6 YEARS -\n\t\t\t19 YEARS",
+    "codes": [
+      {
+        "code": "0",
+        "label": "Never attended / kindergarten only"
+      },
+      {
+        "code": "1",
+        "label": "1st grade"
+      },
+      {
+        "code": "2",
+        "label": "2nd grade"
+      },
+      {
+        "code": "3",
+        "label": "3rd grade"
+      },
+      {
+        "code": "4",
+        "label": "4th grade"
+      },
+      {
+        "code": "5",
+        "label": "5th grade"
+      },
+      {
+        "code": "6",
+        "label": "6th grade"
+      },
+      {
+        "code": "7",
+        "label": "7th grade"
+      },
+      {
+        "code": "8",
+        "label": "8th grade"
+      },
+      {
+        "code": "9",
+        "label": "9th grade"
+      },
+      {
+        "code": "10",
+        "label": "10th grade"
+      },
+      {
+        "code": "11",
+        "label": "11th grade"
+      },
+      {
+        "code": "12",
+        "label": "12th grade, no diploma"
+      },
+      {
+        "code": "13",
+        "label": "High school graduate"
+      },
+      {
+        "code": "14",
+        "label": "GED or equivalent"
+      },
+      {
+        "code": "15",
+        "label": "More than high school"
+      },
+      {
+        "code": "55",
+        "label": "Less than 5th grade"
+      },
+      {
+        "code": "66",
+        "label": "Less than 9th grade"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't Know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Education level - Children/Youth 6-19",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#DMDEDUC3"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "INDHHIN2",
+    "text": "Total household income (reported as a range value in dollars)",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "$ 0 to $ 4,999"
+      },
+      {
+        "code": "2",
+        "label": "$ 5,000 to $ 9,999"
+      },
+      {
+        "code": "3",
+        "label": "$10,000 to $14,999"
+      },
+      {
+        "code": "4",
+        "label": "$15,000 to $19,999"
+      },
+      {
+        "code": "5",
+        "label": "$20,000 to $24,999"
+      },
+      {
+        "code": "6",
+        "label": "$25,000 to $34,999"
+      },
+      {
+        "code": "7",
+        "label": "$35,000 to $44,999"
+      },
+      {
+        "code": "8",
+        "label": "$45,000 to $54,999"
+      },
+      {
+        "code": "9",
+        "label": "$55,000 to $64,999"
+      },
+      {
+        "code": "10",
+        "label": "$65,000 to $74,999"
+      },
+      {
+        "code": "12",
+        "label": "$20,000 and Over"
+      },
+      {
+        "code": "13",
+        "label": "Under $20,000"
+      },
+      {
+        "code": "14",
+        "label": "$75,000 to $99,999"
+      },
+      {
+        "code": "15",
+        "label": "$100,000 and Over"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Annual household income",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#INDHHIN2"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "INDFMIN2",
+    "text": "Total family income (reported as a range value in dollars)",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "$ 0 to $ 4,999"
+      },
+      {
+        "code": "2",
+        "label": "$ 5,000 to $ 9,999"
+      },
+      {
+        "code": "3",
+        "label": "$10,000 to $14,999"
+      },
+      {
+        "code": "4",
+        "label": "$15,000 to $19,999"
+      },
+      {
+        "code": "5",
+        "label": "$20,000 to $24,999"
+      },
+      {
+        "code": "6",
+        "label": "$25,000 to $34,999"
+      },
+      {
+        "code": "7",
+        "label": "$35,000 to $44,999"
+      },
+      {
+        "code": "8",
+        "label": "$45,000 to $54,999"
+      },
+      {
+        "code": "9",
+        "label": "$55,000 to $64,999"
+      },
+      {
+        "code": "10",
+        "label": "$65,000 to $74,999"
+      },
+      {
+        "code": "12",
+        "label": "$20,000 and Over"
+      },
+      {
+        "code": "13",
+        "label": "Under $20,000"
+      },
+      {
+        "code": "14",
+        "label": "$75,000 to $99,999"
+      },
+      {
+        "code": "15",
+        "label": "$100,000 and Over"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Annual family income",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#INDFMIN2"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "INDFMPIR",
+    "text": "A ratio of family income to poverty guidelines.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 4.99",
+        "label": "Range of Values"
+      },
+      {
+        "code": "5",
+        "label": "Value greater than or equal to 5.00"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Ratio of family income to poverty",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#INDFMPIR"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "RIDSTATR",
+    "text": "Interview and examination status of the participant.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Interviewed only"
+      },
+      {
+        "code": "2",
+        "label": "Both interviewed and MEC examined"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Interview/Examination status",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#RIDSTATR"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "WTMEC2YR",
+    "text": "Full sample 2 year MEC exam weight.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "3419.259085 to 242386.66077",
+        "label": "Range of Values"
+      },
+      {
+        "code": "0",
+        "label": "Not MEC Examined"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Full sample 2 year MEC exam weight",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#WTMEC2YR"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "SDMVSTRA",
+    "text": "Masked variance unit pseudo-stratum variable for variance estimation",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "119 to 133",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Masked variance pseudo-stratum",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#SDMVSTRA"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "SDMVPSU",
+    "text": "Masked variance unit pseudo-PSU variable for variance estimation",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1 to 2",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Masked variance pseudo-PSU",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#SDMVPSU"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "DEMO",
+    "source_variable": "RIDEXPRG",
+    "text": "Pregnancy status for females between 20 and 44 years of age at the time of MEC exam.",
+    "target": "Females only 20 YEARS -\n\t\t\t44 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes, positive lab pregnancy test or self-reported pregnant at exam"
+      },
+      {
+        "code": "2",
+        "label": "The participant was not pregnant at exam"
+      },
+      {
+        "code": "3",
+        "label": "Cannot ascertain if the participant is pregnant at exam"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Pregnancy status at exam",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm#RIDEXPRG"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPX",
+    "source_variable": "BPXSY1",
+    "text": "Systolic:  Blood pressure (first reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "72 to 236",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (1st rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm#BPXSY1"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPX",
+    "source_variable": "BPXSY2",
+    "text": "Systolic:  Blood pressure (second reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "76 to 238",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (2nd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm#BPXSY2"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPX",
+    "source_variable": "BPXSY3",
+    "text": "Systolic:  Blood pressure (third reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "76 to 226",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (3rd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm#BPXSY3"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPX",
+    "source_variable": "BPXSY4",
+    "text": "Systolic:  Blood pressure (fourth reading if necessary) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "82 to 212",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (4th rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm#BPXSY4"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPX",
+    "source_variable": "BPXDI1",
+    "text": "Diastolic:  Blood pressure (first reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 120",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (1st rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm#BPXDI1"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPX",
+    "source_variable": "BPXDI2",
+    "text": "Diastolic: Blood pressure (second reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 144",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (2nd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm#BPXDI2"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPX",
+    "source_variable": "BPXDI3",
+    "text": "Diastolic: Blood pressure (third reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 140",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (3rd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm#BPXDI3"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPX",
+    "source_variable": "BPXDI4",
+    "text": "Diastolic: Blood pressure (fourth reading if necessary) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 132",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (4th rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm#BPXDI4"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPQ",
+    "source_variable": "BPQ020",
+    "text": "{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypertension, also called high blood pressure?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Ever told you had high blood pressure",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPQ_I.htm#BPQ020"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPQ",
+    "source_variable": "BPQ040A",
+    "text": "Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to . . . take prescribed medicine?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Taking prescription for hypertension",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPQ_I.htm#BPQ040A"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BPQ",
+    "source_variable": "BPQ050A",
+    "text": "HELP AVAILABLE (Are you/Is SP) now taking prescribed medicine",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Now taking prescribed medicine for HBP",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPQ_I.htm#BPQ050A"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "HIQ",
+    "source_variable": "HIQ011",
+    "text": "The (first/next) questions are about health insurance. {Are you/Is SP} covered by health insurance or some other kind of health care plan?  [Include health insurance obtained through employment or purchased directly as well as government programs like Medicare and Medicaid that provide medical care or help pay medical bills.]",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Covered by health insurance",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/HIQ_I.htm#HIQ011"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "HIQ",
+    "source_variable": "HIQ210",
+    "text": "In the past 12 months, was there any time when {you/SP} did not have any health insurance coverage?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Time when no insurance in past year?",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/HIQ_I.htm#HIQ210"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "HUQ",
+    "source_variable": "HUQ030",
+    "text": "Is there a place that {you/SP} usually {go/goes} when {you are/he/she is} sick or {you/s/he} need{s} advice about {your/his/her} health?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "There is no place"
+      },
+      {
+        "code": "3",
+        "label": "There is more than one place"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Routine place to go for healthcare",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/HUQ_I.htm#HUQ030"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "HUQ",
+    "source_variable": "HUQ041",
+    "text": "{What kind of place is it - a clinic, doctor's office, emergency room, or some other place?} {What kind of place {do you/does SP} go to most often - a clinic, doctor's office, emergency room, or some other place?}",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Clinic or health center"
+      },
+      {
+        "code": "2",
+        "label": "Doctor's office or HMO"
+      },
+      {
+        "code": "3",
+        "label": "Hospital emergency room"
+      },
+      {
+        "code": "4",
+        "label": "Hospital outpatient department"
+      },
+      {
+        "code": "5",
+        "label": "Some other place"
+      },
+      {
+        "code": "6",
+        "label": "Doesn't go to one place most often"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Type place most often go for healthcare",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/HUQ_I.htm#HUQ041"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "BMX",
+    "source_variable": "BMXBMI",
+    "text": "Body Mass Index (kg/m**2)",
+    "target": "Both males and females 2 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "11.5 to 67.3",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Body Mass Index (kg/m**2)",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BMX_I.htm#BMXBMI"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "SMQ",
+    "source_variable": "SMQ020",
+    "text": "These next questions are about cigarette smoking and other tobacco use. {Have you/Has SP} smoked at least 100 cigarettes in {your/his/her} entire life?",
+    "target": "Both males and females 18 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Smoked at least 100 cigarettes in life",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/SMQ_I.htm#SMQ020"
+  },
+  {
+    "cycle": "2015\u20132016",
+    "suffix": "I",
+    "component": "SMQ",
+    "source_variable": "SMQ040",
+    "text": "{Do you/Does SP} now smoke cigarettes?",
+    "target": "Both males and females 18 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Every day"
+      },
+      {
+        "code": "2",
+        "label": "Some days"
+      },
+      {
+        "code": "3",
+        "label": "Not at all"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Do you now smoke cigarettes?",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/SMQ_I.htm#SMQ040"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "RIDAGEYR",
+    "text": "Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 79",
+        "label": "Range of Values"
+      },
+      {
+        "code": "80",
+        "label": "80 years of age and over"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Age in years at screening",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#RIDAGEYR"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "RIAGENDR",
+    "text": "Gender of the participant.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Male"
+      },
+      {
+        "code": "2",
+        "label": "Female"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Gender",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#RIAGENDR"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "RIDRETH3",
+    "text": "Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Mexican American"
+      },
+      {
+        "code": "2",
+        "label": "Other Hispanic"
+      },
+      {
+        "code": "3",
+        "label": "Non-Hispanic White"
+      },
+      {
+        "code": "4",
+        "label": "Non-Hispanic Black"
+      },
+      {
+        "code": "6",
+        "label": "Non-Hispanic Asian"
+      },
+      {
+        "code": "7",
+        "label": "Other Race - Including Multi-Racial"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Race/Hispanic origin w/ NH Asian",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#RIDRETH3"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "DMDEDUC2",
+    "text": "What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?",
+    "target": "Both males and females 20 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Less than 9th grade"
+      },
+      {
+        "code": "2",
+        "label": "9-11th grade (Includes 12th grade with no diploma)"
+      },
+      {
+        "code": "3",
+        "label": "High school graduate/GED or equivalent"
+      },
+      {
+        "code": "4",
+        "label": "Some college or AA degree"
+      },
+      {
+        "code": "5",
+        "label": "College graduate or above"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Education level - Adults 20+",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#DMDEDUC2"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "DMDEDUC3",
+    "text": "What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?",
+    "target": "Both males and females 6 YEARS -\n\t\t\t19 YEARS",
+    "codes": [
+      {
+        "code": "0",
+        "label": "Never attended / kindergarten only"
+      },
+      {
+        "code": "1",
+        "label": "1st grade"
+      },
+      {
+        "code": "2",
+        "label": "2nd grade"
+      },
+      {
+        "code": "3",
+        "label": "3rd grade"
+      },
+      {
+        "code": "4",
+        "label": "4th grade"
+      },
+      {
+        "code": "5",
+        "label": "5th grade"
+      },
+      {
+        "code": "6",
+        "label": "6th grade"
+      },
+      {
+        "code": "7",
+        "label": "7th grade"
+      },
+      {
+        "code": "8",
+        "label": "8th grade"
+      },
+      {
+        "code": "9",
+        "label": "9th grade"
+      },
+      {
+        "code": "10",
+        "label": "10th grade"
+      },
+      {
+        "code": "11",
+        "label": "11th grade"
+      },
+      {
+        "code": "12",
+        "label": "12th grade, no diploma"
+      },
+      {
+        "code": "13",
+        "label": "High school graduate"
+      },
+      {
+        "code": "14",
+        "label": "GED or equivalent"
+      },
+      {
+        "code": "15",
+        "label": "More than high school"
+      },
+      {
+        "code": "55",
+        "label": "Less than 5th grade"
+      },
+      {
+        "code": "66",
+        "label": "Less than 9th grade"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Education level - Children/Youth 6-19",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#DMDEDUC3"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "INDHHIN2",
+    "text": "Total household income (reported as a range value in dollars)",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "$ 0 to $ 4,999"
+      },
+      {
+        "code": "2",
+        "label": "$ 5,000 to $ 9,999"
+      },
+      {
+        "code": "3",
+        "label": "$10,000 to $14,999"
+      },
+      {
+        "code": "4",
+        "label": "$15,000 to $19,999"
+      },
+      {
+        "code": "5",
+        "label": "$20,000 to $24,999"
+      },
+      {
+        "code": "6",
+        "label": "$25,000 to $34,999"
+      },
+      {
+        "code": "7",
+        "label": "$35,000 to $44,999"
+      },
+      {
+        "code": "8",
+        "label": "$45,000 to $54,999"
+      },
+      {
+        "code": "9",
+        "label": "$55,000 to $64,999"
+      },
+      {
+        "code": "10",
+        "label": "$65,000 to $74,999"
+      },
+      {
+        "code": "12",
+        "label": "$20,000 and Over"
+      },
+      {
+        "code": "13",
+        "label": "Under $20,000"
+      },
+      {
+        "code": "14",
+        "label": "$75,000 to $99,999"
+      },
+      {
+        "code": "15",
+        "label": "$100,000 and Over"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Annual household income",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#INDHHIN2"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "INDFMIN2",
+    "text": "Total family income (reported as a range value in dollars)",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "$ 0 to $ 4,999"
+      },
+      {
+        "code": "2",
+        "label": "$ 5,000 to $ 9,999"
+      },
+      {
+        "code": "3",
+        "label": "$10,000 to $14,999"
+      },
+      {
+        "code": "4",
+        "label": "$15,000 to $19,999"
+      },
+      {
+        "code": "5",
+        "label": "$20,000 to $24,999"
+      },
+      {
+        "code": "6",
+        "label": "$25,000 to $34,999"
+      },
+      {
+        "code": "7",
+        "label": "$35,000 to $44,999"
+      },
+      {
+        "code": "8",
+        "label": "$45,000 to $54,999"
+      },
+      {
+        "code": "9",
+        "label": "$55,000 to $64,999"
+      },
+      {
+        "code": "10",
+        "label": "$65,000 to $74,999"
+      },
+      {
+        "code": "12",
+        "label": "$20,000 and Over"
+      },
+      {
+        "code": "13",
+        "label": "Under $20,000"
+      },
+      {
+        "code": "14",
+        "label": "$75,000 to $99,999"
+      },
+      {
+        "code": "15",
+        "label": "$100,000 and Over"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Annual family income",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#INDFMIN2"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "INDFMPIR",
+    "text": "A ratio of family income to poverty guidelines.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 4.98",
+        "label": "Range of Values"
+      },
+      {
+        "code": "5",
+        "label": "Value greater than or equal to 5.00"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Ratio of family income to poverty",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#INDFMPIR"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "RIDSTATR",
+    "text": "Interview and examination status of the participant.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Interviewed only"
+      },
+      {
+        "code": "2",
+        "label": "Both interviewed and MEC examined"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Interview/Examination status",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#RIDSTATR"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "WTMEC2YR",
+    "text": "Full sample 2 year MEC exam weight.",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "2566.1838545 to 419762.83649",
+        "label": "Range of Values"
+      },
+      {
+        "code": "0",
+        "label": "Not MEC Examined"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Full sample 2 year MEC exam weight",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#WTMEC2YR"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "SDMVSTRA",
+    "text": "Masked variance unit pseudo-stratum variable for variance estimation",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "134 to 148",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Masked variance pseudo-stratum",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#SDMVSTRA"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "SDMVPSU",
+    "text": "Masked variance unit pseudo-PSU variable for variance estimation",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1 to 2",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Masked variance pseudo-PSU",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#SDMVPSU"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "DEMO",
+    "source_variable": "RIDEXPRG",
+    "text": "Pregnancy status for females between 20 and 44 years of age at the time of MEC exam.",
+    "target": "Females only 20 YEARS -\n\t\t\t44 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes, positive lab pregnancy test or self-reported pregnant at exam"
+      },
+      {
+        "code": "2",
+        "label": "The participant was not pregnant at exam"
+      },
+      {
+        "code": "3",
+        "label": "Cannot ascertain if the participant is pregnant at exam"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Pregnancy status at exam",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm#RIDEXPRG"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPX",
+    "source_variable": "BPXSY1",
+    "text": "Systolic:  Blood pressure (first reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "72 to 228",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (1st rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm#BPXSY1"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPX",
+    "source_variable": "BPXSY2",
+    "text": "Systolic:  Blood pressure (second reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "72 to 236",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (2nd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm#BPXSY2"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPX",
+    "source_variable": "BPXSY3",
+    "text": "Systolic:  Blood pressure (third reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "72 to 238",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (3rd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm#BPXSY3"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPX",
+    "source_variable": "BPXSY4",
+    "text": "Systolic:  Blood pressure (fourth reading if necessary) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "74 to 234",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Systolic: Blood pres (4th rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm#BPXSY4"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPX",
+    "source_variable": "BPXDI1",
+    "text": "Diastolic:  Blood pressure (first reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 136",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (1st rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm#BPXDI1"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPX",
+    "source_variable": "BPXDI2",
+    "text": "Diastolic: Blood pressure (second reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 136",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (2nd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm#BPXDI2"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPX",
+    "source_variable": "BPXDI3",
+    "text": "Diastolic: Blood pressure (third reading) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 134",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (3rd rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm#BPXDI3"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPX",
+    "source_variable": "BPXDI4",
+    "text": "Diastolic: Blood pressure (fourth reading if necessary) mm Hg",
+    "target": "Both males and females 8 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "0 to 118",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Diastolic: Blood pres (4th rdg) mm Hg",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm#BPXDI4"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPQ",
+    "source_variable": "BPQ020",
+    "text": "{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypertension, also called high blood pressure?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Ever told you had high blood pressure",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPQ_J.htm#BPQ020"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPQ",
+    "source_variable": "BPQ040A",
+    "text": "Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to . . . take prescribed medicine?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Taking prescription for hypertension",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPQ_J.htm#BPQ040A"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BPQ",
+    "source_variable": "BPQ050A",
+    "text": "{Are you/Is SP} now taking prescribed medicine?",
+    "target": "Both males and females 16 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Now taking prescribed medicine for HBP",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPQ_J.htm#BPQ050A"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "HIQ",
+    "source_variable": "HIQ011",
+    "text": "The (first/next) questions are about health insurance. {Are you/Is SP} covered by health insurance or some other kind of health care plan?  [Include health insurance obtained through employment or purchased directly as well as government programs like Medicare and Medicaid that provide medical care or help pay medical bills.]",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Covered by health insurance",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/HIQ_J.htm#HIQ011"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "HIQ",
+    "source_variable": "HIQ210",
+    "text": "In the past 12 months, was there any time when {you/SP} did not have any health insurance coverage?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Time when no insurance in past year?",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/HIQ_J.htm#HIQ210"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "HUQ",
+    "source_variable": "HUQ030",
+    "text": "Is there a place that {you/SP} usually {go/goes} when {you are/he/she is} sick or {you/s/he} need{s} advice about {your/his/her} health?",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "There is no place"
+      },
+      {
+        "code": "3",
+        "label": "There is more than one place"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Routine place to go for healthcare",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/HUQ_J.htm#HUQ030"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "HUQ",
+    "source_variable": "HUQ041",
+    "text": "{What kind of place is it - a clinic, doctor's office, emergency room, or some other place?} {What kind of place {do you/does SP} go to most often - a clinic, doctor's office, emergency room, or some other place?}",
+    "target": "Both males and females 0 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Clinic or health center"
+      },
+      {
+        "code": "2",
+        "label": "Doctor's office or HMO"
+      },
+      {
+        "code": "3",
+        "label": "Hospital emergency room"
+      },
+      {
+        "code": "4",
+        "label": "Hospital outpatient department"
+      },
+      {
+        "code": "5",
+        "label": "Some other place"
+      },
+      {
+        "code": "6",
+        "label": "Doesn't go to one place most often"
+      },
+      {
+        "code": "77",
+        "label": "Refused"
+      },
+      {
+        "code": "99",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Type place most often go for healthcare",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/HUQ_J.htm#HUQ041"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "BMX",
+    "source_variable": "BMXBMI",
+    "text": "Body Mass Index (kg/m**2)",
+    "target": "Both males and females 2 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "12.3 to 86.2",
+        "label": "Range of Values"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Body Mass Index (kg/m**2)",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BMX_J.htm#BMXBMI"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "SMQ",
+    "source_variable": "SMQ020",
+    "text": "These next questions are about cigarette smoking and other tobacco use. {Have you/Has SP} smoked at least 100 cigarettes in {your/his/her} entire life?",
+    "target": "Both males and females 18 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Yes"
+      },
+      {
+        "code": "2",
+        "label": "No"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Smoked at least 100 cigarettes in life",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/SMQ_J.htm#SMQ020"
+  },
+  {
+    "cycle": "2017\u20132018",
+    "suffix": "J",
+    "component": "SMQ",
+    "source_variable": "SMQ040",
+    "text": "{Do you/Does SP} now smoke cigarettes?",
+    "target": "Both males and females 18 YEARS -\n\t\t\t150 YEARS",
+    "codes": [
+      {
+        "code": "1",
+        "label": "Every day"
+      },
+      {
+        "code": "2",
+        "label": "Some days"
+      },
+      {
+        "code": "3",
+        "label": "Not at all"
+      },
+      {
+        "code": "7",
+        "label": "Refused"
+      },
+      {
+        "code": "9",
+        "label": "Don't know"
+      },
+      {
+        "code": ".",
+        "label": "Missing"
+      }
+    ],
+    "label": "Do you now smoke cigarettes?",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/SMQ_J.htm#SMQ040"
+  }
+]

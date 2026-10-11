@@ -1,0 +1,71 @@
+analysis,group,variable,level,group_n,category_n,n,estimate,se,design_df,full_design_df
+Calixte attempt,Routine non-emergency place,RIDAGEYR,Mean,3789,,3789,47.938814543309135,0.3150806834399294,62,62
+Calixte attempt,Routine non-emergency place,pir,Mean,3789,,3789,3.2000579686758983,0.05754489521660022,62,62
+Calixte attempt,Routine non-emergency place,BMXBMI,Mean,3789,,3789,31.80589417940938,0.20070897984270103,62,62
+Calixte attempt,Routine non-emergency place,unawareness,Mean,3789,,3789,0.5229244181492296,0.010502179789971925,62,62
+Calixte attempt,Routine non-emergency place,sex,Female,3789,1799.0,3789,0.4543632637370301,0.012393658573194277,62,62
+Calixte attempt,Routine non-emergency place,sex,Male,3789,1990.0,3789,0.54563673626297,0.012393658573194277,62,62
+Calixte attempt,Routine non-emergency place,race4,White,3789,1235.0,3789,0.6498863330445112,0.020618386402599043,62,62
+Calixte attempt,Routine non-emergency place,race4,Black,3789,1143.0,3789,0.14808668437198078,0.01370000177525289,62,62
+Calixte attempt,Routine non-emergency place,race4,Hispanic,3789,767.0,3789,0.11800286551071566,0.009690746672360067,62,62
+Calixte attempt,Routine non-emergency place,race4,Other,3789,644.0,3789,0.0840241170727925,0.00671604974535262,62,62
+Calixte attempt,Routine non-emergency place,college,College graduate,3789,956.0,3789,0.30665520178163685,0.015049139006292903,62,62
+Calixte attempt,Routine non-emergency place,college,Below college,3789,2833.0,3789,0.6933447982183634,0.015049139006292905,62,62
+Calixte attempt,Routine non-emergency place,smoking,Never,3789,2167.0,3789,0.5497624844643167,0.014022933603098165,62,62
+Calixte attempt,Routine non-emergency place,smoking,Former,3789,852.0,3789,0.2676069663889427,0.011525376218481013,62,62
+Calixte attempt,Routine non-emergency place,smoking,Current,3789,770.0,3789,0.18263054914674062,0.008851230419740886,62,62
+Calixte attempt,No routine non-emergency place,RIDAGEYR,Mean,1141,,1141,41.89731497705002,0.5788948362341406,62,62
+Calixte attempt,No routine non-emergency place,pir,Mean,1141,,1141,2.2647312528117194,0.07388285170616372,62,62
+Calixte attempt,No routine non-emergency place,BMXBMI,Mean,1141,,1141,30.568684048551916,0.28755393487977343,62,62
+Calixte attempt,No routine non-emergency place,unawareness,Mean,1141,,1141,0.6954820365387558,0.01944062706046337,62,62
+Calixte attempt,No routine non-emergency place,sex,Female,1141,310.0,1141,0.2549975626290282,0.02093377425846086,62,62
+Calixte attempt,No routine non-emergency place,sex,Male,1141,831.0,1141,0.7450024373709719,0.02093377425846086,62,62
+Calixte attempt,No routine non-emergency place,race4,White,1141,320.0,1141,0.5197468986211871,0.030109964452063435,62,62
+Calixte attempt,No routine non-emergency place,race4,Black,1141,327.0,1141,0.16804931308568624,0.018432294271167472,62,62
+Calixte attempt,No routine non-emergency place,race4,Hispanic,1141,321.0,1141,0.21282841559739732,0.019740771037973996,62,62
+Calixte attempt,No routine non-emergency place,race4,Other,1141,173.0,1141,0.09937537269572953,0.013373814209797734,62,62
+Calixte attempt,No routine non-emergency place,college,College graduate,1141,158.0,1141,0.167971985852452,0.02107982490641227,62,62
+Calixte attempt,No routine non-emergency place,college,Below college,1141,983.0,1141,0.8320280141475481,0.02107982490641227,62,62
+Calixte attempt,No routine non-emergency place,smoking,Never,1141,558.0,1141,0.47725535673147046,0.02303880164370502,62,62
+Calixte attempt,No routine non-emergency place,smoking,Former,1141,189.0,1141,0.17311874764044524,0.01616535139313856,62,62
+Calixte attempt,No routine non-emergency place,smoking,Current,1141,394.0,1141,0.34962589562808455,0.02160437373009387,62,62
+Insurance extension,Insured,RIDAGEYR,Mean,5408,,5408,48.80758009447345,0.2302479024986385,62,62
+Insurance extension,Insured,pir,Mean,5408,,4912,3.259768763533525,0.052161377905090886,62,62
+Insurance extension,Insured,sbp,Mean,5408,,5302,131.31457370246193,0.3357791149243086,62,62
+Insurance extension,Insured,dbp,Mean,5408,,5302,78.6914402299239,0.3218400259738482,62,62
+Insurance extension,Insured,awareness,Mean,5408,,5408,0.5823153951447003,0.011081678069522044,62,62
+Insurance extension,Insured,sex,Female,5408,2592.0,5408,0.457378895913006,0.010683440771370113,62,62
+Insurance extension,Insured,sex,Male,5408,2816.0,5408,0.542621104086994,0.010683440771370116,62,62
+Insurance extension,Insured,race,White,5408,1754.0,5408,0.6540282593074732,0.020012045350973805,62,62
+Insurance extension,Insured,race,Black,5408,1666.0,5408,0.1470304098452761,0.012728594555419926,62,62
+Insurance extension,Insured,race,Mexican American,5408,590.0,5408,0.0618233131690386,0.006711395342690308,62,62
+Insurance extension,Insured,race,Other Hispanic,5408,494.0,5408,0.049971625323298206,0.004741235950756782,62,62
+Insurance extension,Insured,race,Asian,5408,699.0,5408,0.052233950398168104,0.0050471614872197295,62,62
+Insurance extension,Insured,race,Other/multiracial,5408,205.0,5408,0.03491244195674583,0.004335639723331508,62,62
+Insurance extension,Insured,education,College graduate,5408,1376.0,5407,0.30297783896811065,0.014566635512887392,62,62
+Insurance extension,Insured,education,Some college/AA,5408,1807.0,5407,0.3543041273805602,0.010612048889547978,62,62
+Insurance extension,Insured,education,High school/GED,5408,1245.0,5407,0.23385510791858632,0.010739972047237858,62,62
+Insurance extension,Insured,education,Below high school,5408,979.0,5407,0.1088629257327428,0.007135051177916139,62,62
+Insurance extension,Insured,pir_group,PIR >2,5408,2848.0,4912,0.7113581325015181,0.012680786955525292,62,62
+Insurance extension,Insured,pir_group,PIR >1–2,5408,1121.0,4912,0.1670580100858739,0.008078629401533921,62,62
+Insurance extension,Insured,pir_group,PIR ≤1,5408,943.0,4912,0.1215838574126079,0.007992163479688931,62,62
+Insurance extension,Uninsured,RIDAGEYR,Mean,1443,,1443,44.70676052153595,0.4213225381733729,62,62
+Insurance extension,Uninsured,pir,Mean,1443,,1279,1.8258957393005821,0.06615628358827773,62,62
+Insurance extension,Uninsured,sbp,Mean,1443,,1431,135.29791696787257,0.7559179491165309,62,62
+Insurance extension,Uninsured,dbp,Mean,1443,,1431,81.03694799026567,0.4964004557210036,62,62
+Insurance extension,Uninsured,awareness,Mean,1443,,1443,0.4566038673486578,0.01784181865951863,62,62
+Insurance extension,Uninsured,sex,Female,1443,584.0,1443,0.37605856420243927,0.017674905099855184,62,62
+Insurance extension,Uninsured,sex,Male,1443,859.0,1443,0.6239414357975607,0.017674905099855184,62,62
+Insurance extension,Uninsured,race,White,1443,387.0,1443,0.46709323315133144,0.03138308032798467,62,62
+Insurance extension,Uninsured,race,Black,1443,408.0,1443,0.18547850826783102,0.02110841083674451,62,62
+Insurance extension,Uninsured,race,Mexican American,1443,313.0,1443,0.1778905790237441,0.01928372364456896,62,62
+Insurance extension,Uninsured,race,Other Hispanic,1443,168.0,1443,0.08857412162061445,0.011702813325866153,62,62
+Insurance extension,Uninsured,race,Asian,1443,114.0,1443,0.0397936418824977,0.005575986602707853,62,62
+Insurance extension,Uninsured,race,Other/multiracial,1443,53.0,1443,0.04116991605398108,0.0071842625264037,62,62
+Insurance extension,Uninsured,education,College graduate,1443,125.0,1443,0.1026354472627799,0.014440977225501563,62,62
+Insurance extension,Uninsured,education,Some college/AA,1443,391.0,1443,0.29437471347167954,0.019386192432204574,62,62
+Insurance extension,Uninsured,education,High school/GED,1443,407.0,1443,0.3102557568401275,0.020857521939141067,62,62
+Insurance extension,Uninsured,education,Below high school,1443,520.0,1443,0.29273408242541293,0.02072690850648665,62,62
+Insurance extension,Uninsured,pir_group,PIR >2,1443,338.0,1279,0.3482429409300848,0.021380018806203285,62,62
+Insurance extension,Uninsured,pir_group,PIR >1–2,1443,468.0,1279,0.3438408897109613,0.017679270417372345,62,62
+Insurance extension,Uninsured,pir_group,PIR ≤1,1443,473.0,1279,0.30791616935895394,0.01704375255362196,62,62

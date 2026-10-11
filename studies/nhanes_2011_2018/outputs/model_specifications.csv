@@ -1,0 +1,41 @@
+model,outcome,formula,family,kind,scope,domain_column,rule
+A1,unawareness,unawareness ~ no_routine_non_emergency_care,poisson,reconstructed approximate replication,pooled,model_domain_A1,care_common
+A2,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4,poisson,reconstructed approximate replication,pooled,model_domain_A2,care_common
+A3,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir,poisson,reconstructed approximate replication,pooled,model_domain_A3,care_common
+A4,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking,poisson,reconstructed approximate replication,pooled,model_domain_A4,care_common
+A1_stage,unawareness,unawareness ~ no_routine_non_emergency_care,poisson,missingness sensitivity,pooled,model_domain_A1_stage,care_stage
+A2_stage,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4,poisson,missingness sensitivity,pooled,model_domain_A2_stage,care_stage
+A3_stage,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir,poisson,missingness sensitivity,pooled,model_domain_A3_stage,care_stage
+A4_strict23,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_strict23,care_strict23
+A4_available23,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_available23,care_available
+A4_age20,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_age20,care_age20
+A4_no_place_only,unawareness,unawareness ~ no_any_place + age10 + sex + race4 + college + pir + obese + smoking,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_no_place_only,care_stage
+A4_single_place,unawareness,unawareness ~ no_routine + age10 + sex + race4 + college + pir + obese + smoking,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_single_place,care_stage
+A4_exclude_ER,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_exclude_ER,care_exclude_ER
+A4_no_clinical,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_no_clinical,care_stage
+A4_adult_education,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college_adult + pir + obese + smoking,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_adult_education,care_stage
+A4_household_income,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + income + obese + smoking,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_household_income,care_stage
+A4_cycle,unawareness,unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking + cycle,poisson,predeclared reconstruction sensitivity,pooled,model_domain_A4_cycle,care_stage
+I1,awareness,awareness ~ uninsured,logit,primary,pooled,model_domain_I1,insurance
+I1_PR,awareness,awareness ~ uninsured,poisson,insurance prevalence ratio,pooled,model_domain_I1_PR,insurance
+I2,awareness,awareness ~ uninsured + age10 + sex,logit,primary,pooled,model_domain_I2,insurance
+I2_PR,awareness,awareness ~ uninsured + age10 + sex,poisson,insurance prevalence ratio,pooled,model_domain_I2_PR,insurance
+I3,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,primary,pooled,model_domain_I3,insurance
+I3_PR,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,poisson,insurance prevalence ratio,pooled,model_domain_I3_PR,insurance
+I1_common,awareness,awareness ~ uninsured,logit,common sample sensitivity,pooled,model_domain_I1_common,insurance_common
+I2_common,awareness,awareness ~ uninsured + age10 + sex,logit,common sample sensitivity,pooled,model_domain_I2_common,insurance_common
+I3_measured,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,insurance sensitivity,pooled,model_domain_I3_measured,I3_measured
+I3_measured_PR,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,poisson,measured-only PR sensitivity,pooled,model_domain_I3_measured_PR,I3_measured
+I3_140,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,insurance sensitivity,pooled,model_domain_I3_140,I3_140
+I3_bp_complete,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,insurance sensitivity,pooled,model_domain_I3_bp_complete,I3_bp_complete
+I3_readings23,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,insurance sensitivity,pooled,model_domain_I3_readings23,I3_readings23
+I3_measured23,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,insurance sensitivity,pooled,model_domain_I3_measured23,I3_measured23
+I3_measured23_age18,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,insurance sensitivity,pooled,model_domain_I3_measured23_age18,I3_measured23_age18
+I3_not_pregnant,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,insurance sensitivity,pooled,model_domain_I3_not_pregnant,I3_not_pregnant
+I3_omit_PIR,awareness,awareness ~ uninsured + age10 + sex + race + education,logit,insurance sensitivity,pooled,model_domain_I3_omit_PIR,I3_omit_PIR
+I3_cycle,awareness,awareness ~ uninsured + age10 + sex + race + education + pir + cycle,logit,insurance sensitivity,pooled,model_domain_I3_cycle,I3_cycle
+I3_quadratic_age,awareness,awareness ~ uninsured + age10 + sex + race + education + pir + age10_sq,logit,insurance sensitivity,pooled,model_domain_I3_quadratic_age,I3_quadratic_age
+I3_categorical_PIR,awareness,awareness ~ uninsured + age10 + sex + race + education + pir_group,logit,insurance sensitivity,pooled,model_domain_I3_categorical_PIR,I3_categorical_PIR
+J1,awareness,awareness ~ uninsured,logit,prior cycle reproduction,single_J,model_domain_J1,single_J
+J2,awareness,awareness ~ uninsured + age10 + sex,logit,prior cycle reproduction,single_J,model_domain_J2,single_J
+J3,awareness,awareness ~ uninsured + age10 + sex + race + education + pir,logit,prior cycle reproduction,single_J,model_domain_J3,single_J

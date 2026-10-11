@@ -1,0 +1,20 @@
+{
+  "full_examined_n": 37399,
+  "strata": 59,
+  "PSUs": 121,
+  "design_df": 62,
+  "cycles": [
+    "2011\u20132012",
+    "2013\u20132014",
+    "2015\u20132016",
+    "2017\u20132018"
+  ],
+  "weight_rule": "WTMEC8YR=WTMEC2YR/4",
+  "native_stratum_collision_across_cycles": false,
+  "insurance_case_n": 6864,
+  "insurance_unresolved_direct_status_exam20_64_n": 9408,
+  "case_definition_note": "No skipped medication imputation in extension; positive-case membership matches original",
+  "care_case_n": 5571,
+  "care_complete_n": 4930,
+  "insurance_complete_n": 6191
+}

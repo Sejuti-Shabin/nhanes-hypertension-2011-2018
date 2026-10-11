@@ -1,0 +1,7 @@
+measure,publication_benchmark,our_result,difference,plausible_reasons
+Reported analytic n,5345,4930,-415,Reconstructed complete-case clinical cohort versus unspecified published exclusions; eligible cases also reported separately
+Measured case-eligible n,Published analytic count only,5571,Not directly comparable,Case eligibility is not the same as final regression n
+Weighted unawareness (%),56.2,55.94,-0.26,"Different averaging, sample and missingness policy possible"
+Routine-care prevalence (%),81.69999999999999,78.863,-2.837,Our non-emergency proxy and multiple-place handling are reconstructed
+Adjusted PR,1.2,1.265298,0.065298,Our explicit all-covariate model is not the unverified publication formula
+95% CI,1.12–1.29,1.176–1.361,Not a statistical difference test,Different design-reference calibration/formula/sample possible

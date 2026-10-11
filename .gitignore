@@ -1,0 +1,20 @@
+# Preserve the historical working tree locally, but keep this new export portable.
+studies/nhanes_2017_2018/
+**/__pycache__/
+**/*.pyc
+**/.build-libs/
+**/data/raw/
+**/outputs/design_frame.csv
+**/outputs/*replicates.csv
+**/outputs/*.rds
+**/outputs/logs/
+**/outputs/run_state.json
+**/outputs/execution.json
+**/outputs/R_sessionInfo.txt
+**/outputs/python_environment.json
+**/outputs/validation_provenance.json
+**/outputs/artifact_manifest.json
+**/outputs/clean_copy_validation.json
+**/reference/single_cycle/*.md
+**/reference/single_cycle/*.py
+**/reference/single_cycle/*.R

@@ -1,0 +1,5 @@
+analysis,population_case,exposure,outcome,model_n,weighted_prevalence,routine_prevalence,adjusted_estimate,comparability
+Calixte published,18–64; measured≥130/80,No routine care (exact recoding unknown),Unawareness,5345,56.2% unaware,81.7%,"PR1.20[1.12,1.29]",Exact formula/exclusions unverified
+Study A reconstruction,18–64;first3 measured≥130/80,No operational non-ER routine place,Unawareness,4930,55.9% (95% CI 54.0–57.9),78.9% (95% CI 77.1–80.5),PR 1.27 (95% CI 1.18–1.36),Approximate comparison only
+Study B pooled,20–64;first3≥130/80 orreported medication,Uninsured versus insured,Awareness,6191,58.2% insured;45.7% uninsured,Not an insurance endpoint,OR 0.60 (95% CI 0.49–0.75);PR 0.81 (95% CI 0.73–0.89),Matched original covariates; different outcome/exposure thanA
+Prior reviewed2017–2018,20–64;first3≥130/80 orreported medication,Uninsured versus insured,Awareness,1534,55.1% insured;43.1% uninsured,Not an insurance endpoint,OR 0.60 (95% CI 0.22–1.62),"Historical baseline, different period; reproduced numerically"

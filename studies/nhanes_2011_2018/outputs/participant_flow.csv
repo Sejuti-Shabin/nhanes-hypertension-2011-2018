@@ -1,0 +1,15 @@
+analysis,stage,n,excluded_since_previous
+Calixte attempt,All respondents,39156,0
+Calixte attempt,Age eligible,18391,20765
+Calixte attempt,Examined positive MEC weight,17682,709
+Calixte attempt,Valid first3 BP means,16957,725
+Calixte attempt,Case eligibility,5571,11386
+Calixte attempt,Outcome/exposure complete,5547,24
+Calixte attempt,Fully adjusted complete cases,4930,617
+Insurance extension,All respondents,39156,0
+Insurance extension,Age eligible,17183,21973
+Insurance extension,Examined positive MEC weight,16521,662
+Insurance extension,Direct case status classifiable,7113,9408
+Insurance extension,Case eligibility,6864,249
+Insurance extension,Outcome/exposure complete,6851,13
+Insurance extension,Fully adjusted complete cases,6191,660

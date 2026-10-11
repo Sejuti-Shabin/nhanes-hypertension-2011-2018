@@ -1,0 +1,642 @@
+{
+  "BMX_G.htm": {
+    "bytes": 33311,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "1c72476279a758945905c7c248c97b1a69dc30620864efc83494c67fa977f4bf",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BMX_G.htm"
+  },
+  "BMX_G.xpt": {
+    "bytes": 1946720,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "4814bfc3047ed400b9d43d285f8c3ea7c940ac6489404a9b699579715d158ec3",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BMX_G.xpt"
+  },
+  "BMX_H.htm": {
+    "bytes": 68196,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "ee05acd20cc0b83e994230fdab31d80ce9ad8ec972ce5538f6c6f52cd527c2cd",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BMX_H.htm"
+  },
+  "BMX_H.xpt": {
+    "bytes": 2045520,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "fd5e9fc6e6aab0a4aee6e699f51497bbc9b62101f7f43aee924c473e38fd9442",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BMX_H.xpt"
+  },
+  "BMX_I.htm": {
+    "bytes": 67003,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "a0c7d0e76a882259d93e0e22f175be57bca746f704f753aab9c673163601f2bd",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BMX_I.htm"
+  },
+  "BMX_I.xpt": {
+    "bytes": 1989600,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "d31da84e14212b4e58e8340598a5b8e2144fac83333563e966eb1b332e4141d6",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BMX_I.xpt"
+  },
+  "BMX_J.htm": {
+    "bytes": 49460,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "557b2ad6946237b7a169819006e7126e48e25cdb45926605cb368342c6773689",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BMX_J.htm"
+  },
+  "BMX_J.xpt": {
+    "bytes": 1466000,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "8d675e42d8826ac98714b2c3dd4c5138a5e353fb4424f7eff5e6db4a01ce838a",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BMX_J.xpt"
+  },
+  "BPQ_G.htm": {
+    "bytes": 46732,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "d64c7423f9dd7d923e95eda2485181e3f64ec4233b1033ae3f2c0455eef49924",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPQ_G.htm"
+  },
+  "BPQ_G.xpt": {
+    "bytes": 743920,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "39c5a0ee1d76e6f3df867c0057986a21f4a028038002c43214c5af8bdec83cae",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPQ_G.xpt"
+  },
+  "BPQ_H.htm": {
+    "bytes": 42938,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "63caf420228684d751d2fdf8ebcc85b93f1c256e1b5b2dfed53d8b68d969229a",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPQ_H.htm"
+  },
+  "BPQ_H.xpt": {
+    "bytes": 726720,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "aa6ddeab80c73b074ccfd04ad010da404ecb91c048476a194594ce9552d03d49",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPQ_H.xpt"
+  },
+  "BPQ_I.htm": {
+    "bytes": 34489,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "63ff76dd86850bac2a9b8ce9b3d0418358a0b2d5ebe64384e62bc41b4169e2f8",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPQ_I.htm"
+  },
+  "BPQ_I.xpt": {
+    "bytes": 559120,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "7f7e51cd0497eb648f64eaafaf7ed07825d617c32b2cd6853ed249fce1143a38",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPQ_I.xpt"
+  },
+  "BPQ_J.htm": {
+    "bytes": 34559,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "1e3a1632530146d45f7fccba1a06da30db0e49e17b58842dca874b713a01021b",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPQ_J.htm"
+  },
+  "BPQ_J.xpt": {
+    "bytes": 544560,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "63cfe1c331a1e7d3534328ac86312a21ffee3e01aa189bc1f74d06855239e5aa",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPQ_J.xpt"
+  },
+  "BPX_G.htm": {
+    "bytes": 67210,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "8e538d287dd2dc82cc6f51f9b70a582b6a9dae26ca14335cca4b10e00b8858cb",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.htm"
+  },
+  "BPX_G.xpt": {
+    "bytes": 2021600,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "1dd66110f41465d601cd54f1e3c6010baafb9375f09fbcaa3aef2536876146fd",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/BPX_G.xpt"
+  },
+  "BPX_H.htm": {
+    "bytes": 58013,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "ba8e018b46211e52d083b8ada6a64800ab03042e9289451666bac8347d88099c",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.htm"
+  },
+  "BPX_H.xpt": {
+    "bytes": 1809600,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "b6641efc30ac9b9de328dfbf4110d0d120439aadca2c2bc89f2e77310d1a0c8e",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/BPX_H.xpt"
+  },
+  "BPX_I.htm": {
+    "bytes": 52009,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "8e45eccbf040fe42deb60c44f89ab6045b4f01216153ab47427f044b730481e2",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.htm"
+  },
+  "BPX_I.xpt": {
+    "bytes": 1607120,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "45d5c9fa101ccc6da82241bd45c99611595e699665eed2cfed232e9070b52cc1",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/BPX_I.xpt"
+  },
+  "BPX_J.htm": {
+    "bytes": 52515,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "a7583578150897efec8748a3bc05ecbc6e54d5a0b5a32cdfda87c883aba56a37",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.htm"
+  },
+  "BPX_J.xpt": {
+    "bytes": 1466000,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "f98f1d9a4c18173e715c749b4294f6f1525140d5ad5751316bb17cc038fb3423",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/BPX_J.xpt"
+  },
+  "DEMO_G.htm": {
+    "bytes": 167583,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "5a8b2bc790f2a70705f035c398a76f7a8bbb5ec92323929cbbf04eb0428f59d7",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.htm"
+  },
+  "DEMO_G.xpt": {
+    "bytes": 3753760,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "eaf0525d1952626885af3e935415a1f66ad62c18698080e7354789c125af252d",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DEMO_G.xpt"
+  },
+  "DEMO_H.htm": {
+    "bytes": 170377,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "686d31f7e0857fd0c16c9a9a4e9878ad1d6e3ec4cba9a904fcce4048c9506b68",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.htm"
+  },
+  "DEMO_H.xpt": {
+    "bytes": 3833200,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "f8f0cbb3085a323d4cde22349b164878fea1e64dbc404e65b5815c7816b547d7",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DEMO_H.xpt"
+  },
+  "DEMO_I.htm": {
+    "bytes": 172117,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "ae488b8a00e7cdbae20f2fb279819dcb180b03373efa13abf784c52a0b82e473",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.htm"
+  },
+  "DEMO_I.xpt": {
+    "bytes": 3756480,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "c9297c6c37ae8f78f29be9568fa2a03cf3b112616a39afee04030fc775a66a0d",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DEMO_I.xpt"
+  },
+  "DEMO_J.htm": {
+    "bytes": 167262,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "07f8f1e7f884fab180ccf53c705652de9d663833fdad85b0d759919c8464cde0",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm"
+  },
+  "DEMO_J.xpt": {
+    "bytes": 3412720,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "c0b46e0345ea19404928656277c8b0d10b0cca348a9b2fe4fc3c67e8b7ee73ec",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.xpt"
+  },
+  "DIQ_G.htm": {
+    "bytes": 156347,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "33ad9047bdf0ff083dbdfb40cf76ef7cd44ac1d9ba6127437a7f39129d0e7120",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DIQ_G.htm"
+  },
+  "DIQ_G.xpt": {
+    "bytes": 3978560,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "a9d5475e0cd66d6a7bc30230345ed0172a9abcbc0a7a4145a35025c827a52a87",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DIQ_G.xpt"
+  },
+  "DIQ_H.htm": {
+    "bytes": 158719,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "d73b409de1474466c70a53df1af62e2275c630b9f5da41d45b24aac65434e2ab",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DIQ_H.htm"
+  },
+  "DIQ_H.xpt": {
+    "bytes": 4228960,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "c74c7ccef65e6997dfac1db1e73bc3f63dec67c70b2e322ffc14f14ce27429a9",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DIQ_H.xpt"
+  },
+  "DIQ_I.htm": {
+    "bytes": 158793,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "29f95cc0910c3052bf563e691fddfb602f5d3fb96e3f2c126a45dcc106e51d94",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DIQ_I.htm"
+  },
+  "DIQ_I.xpt": {
+    "bytes": 4144720,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "e87587479b29f175b63eee5dd40d582837e3e3fe2665503012085eefdb978e0d",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DIQ_I.xpt"
+  },
+  "DIQ_J.htm": {
+    "bytes": 157257,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "d2545b2ef455fabf4f5ef8873b9c46d2ce5e599424f3f7d6bec236a57bf0d869",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DIQ_J.htm"
+  },
+  "DIQ_J.xpt": {
+    "bytes": 3851840,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "1ecbf5360dfc331d1efbf32198553dc30e9a1f4cff0a907ed30ca72bac797f89",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DIQ_J.xpt"
+  },
+  "DPQ_G.htm": {
+    "bytes": 42561,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "085a3ab225d8b63f760bc3c234051fe0ae1b19ea91bd3de03ad193a3a3c12247",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DPQ_G.htm"
+  },
+  "DPQ_G.xpt": {
+    "bytes": 496480,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "38c3e2cb303c6f635330bcbbb0534df90e20ccedee23cf7622ca1ccbc6811844",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/DPQ_G.xpt"
+  },
+  "DPQ_H.htm": {
+    "bytes": 42872,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "93295946a359dfd24cfd646ce4c351e256d969b130e4e50b7738cbd7f113d7d3",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DPQ_H.htm"
+  },
+  "DPQ_H.xpt": {
+    "bytes": 523680,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "b07c49c34a1a91b986f5ca0a1b577eba08ac8ee307010be5a66fc1ef80d8788c",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/DPQ_H.xpt"
+  },
+  "DPQ_I.htm": {
+    "bytes": 42861,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "e9bdde32b1937776a10dc10b7a73ca358d8de1635725188ddd1e7a2b1a56c75c",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DPQ_I.htm"
+  },
+  "DPQ_I.xpt": {
+    "bytes": 507040,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "6f4561aab077b9fd199a414fc516d6fedf40967266b81f1ab7b7d75afb72232d",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/DPQ_I.xpt"
+  },
+  "DPQ_J.htm": {
+    "bytes": 42844,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "b3fa83998fc07246dad7e5a463007e1cea2ce2f1c9971c0c988edc5a9f1bdc12",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DPQ_J.htm"
+  },
+  "DPQ_J.xpt": {
+    "bytes": 489280,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "1c075f332e79736bd2360b41b0c10ed526883417e0b5996c407b1c564b01ca24",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DPQ_J.xpt"
+  },
+  "HIQ_G.htm": {
+    "bytes": 48942,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "6622f787f9144e1a258c2a6619623b08e6c9f64fd2edd00f2e4eaa2c325d74e6",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/HIQ_G.htm"
+  },
+  "HIQ_G.xpt": {
+    "bytes": 1330000,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "074351daf2979b949c72636f767fa4f9578ceaaee10fe6eb877462229f25d009",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/HIQ_G.xpt"
+  },
+  "HIQ_H.htm": {
+    "bytes": 41503,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "815d6d9aa019ff92bc4b06d792224cac81e88ba3b437c103667deaa5dc9a669d",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/HIQ_H.htm"
+  },
+  "HIQ_H.xpt": {
+    "bytes": 1386960,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "1c2eec87f78f361cc8989973516bb8dd1b371da2cc70349dc6c84066c878a21e",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/HIQ_H.xpt"
+  },
+  "HIQ_I.htm": {
+    "bytes": 41337,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "b0e675b5bf7f3eee7fb2c68de39b6490eaa83e7601b4fdcbd69a8d60f60810d5",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/HIQ_I.htm"
+  },
+  "HIQ_I.xpt": {
+    "bytes": 1359200,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "08ff064a49bb59f4ec78c6f97095a4fd42e1d55db7d8884fcb34f7c722e943c2",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/HIQ_I.xpt"
+  },
+  "HIQ_J.htm": {
+    "bytes": 39879,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "c674972f8651db9e0de09d122bf66075e820f5c5582c10d0728590a78619ed30",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/HIQ_J.htm"
+  },
+  "HIQ_J.xpt": {
+    "bytes": 1187520,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "96dfdd98507ea6dc67cb2c2b6999da3c035f3f8a9a87cf34756fe30762387860",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/HIQ_J.xpt"
+  },
+  "HUQ_G.htm": {
+    "bytes": 45402,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "80f968ac7216df612dc060ab70fb235409ba124dd210f6a7991405484b6c79af",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/HUQ_G.htm"
+  },
+  "HUQ_G.xpt": {
+    "bytes": 782640,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "b9ef438747fdc746185a2eb0bec9e63e36212efdc774f2c8bec7f680a60ee924",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/HUQ_G.xpt"
+  },
+  "HUQ_H.htm": {
+    "bytes": 41874,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "106f51a27b54c25b5bcb88d8a419f4fddbf9865a32725214e48819b266c16586",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/HUQ_H.htm"
+  },
+  "HUQ_H.xpt": {
+    "bytes": 816160,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "a35e8ca0c5b7ca6a86a8d787cbd0c3132a10ef5f66b8b432c57885f7bbaa04dd",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/HUQ_H.xpt"
+  },
+  "HUQ_I.htm": {
+    "bytes": 41771,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "a84d7fc8a1bf7fa9c2b6f993a1547e5e54d85fb368e9d70ef74be929a59170a8",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/HUQ_I.htm"
+  },
+  "HUQ_I.xpt": {
+    "bytes": 799840,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "583c2a8ff7268900871e04e8c381c17f1fd64b3f549c9f27a198720f653500b0",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/HUQ_I.xpt"
+  },
+  "HUQ_J.htm": {
+    "bytes": 41769,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "bebd6cd77f92f5de692196a345b396da7deb5993eb1a00a6f15ba1a9c64427d6",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/HUQ_J.htm"
+  },
+  "HUQ_J.xpt": {
+    "bytes": 742480,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "0d8814ca6a72c003eb89885a3a24dcff3b475dfed454089cf4890f9ab9da06d2",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/HUQ_J.xpt"
+  },
+  "MCQ_G.htm": {
+    "bytes": 318697,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "f64eff0b2d74e2b3efd8857302fea12360efe85e3af98dcc75d008007717a80d",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/MCQ_G.htm"
+  },
+  "MCQ_G.xpt": {
+    "bytes": 6905520,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "7538eb86c72b81fd5e76b56120fcb068ed38149d44650e9e750670ad58658d52",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/MCQ_G.xpt"
+  },
+  "MCQ_H.htm": {
+    "bytes": 327912,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "b2f85accebed169cfd6af7894b7d528895f2ce17c19a9d03cfcceca6183de1cd",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/MCQ_H.htm"
+  },
+  "MCQ_H.xpt": {
+    "bytes": 7439280,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "5c83210e6e1fe929282621322ed0f94d95cdb0a37ccaff36f703ab0b2e7b9dc6",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/MCQ_H.xpt"
+  },
+  "MCQ_I.htm": {
+    "bytes": 309685,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "284300ce5dcd393f2101fc995d7c51d9c309d667f78ca5fc45811ac989f0ed9e",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/MCQ_I.htm"
+  },
+  "MCQ_I.xpt": {
+    "bytes": 6907360,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "8b2bd62f5bcd5820d6aac380e4bad233d22ecab42fcf4a3a9a023ffc6b9f4002",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/MCQ_I.xpt"
+  },
+  "MCQ_J.htm": {
+    "bytes": 257835,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "46e21d2184592135585af1999e603ce47b5685abbeb828858bb429fbe6f8ae44",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/MCQ_J.htm"
+  },
+  "MCQ_J.xpt": {
+    "bytes": 5420800,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "79c50c805a377fcd61d44fae8b86a16af0a5741f8b1aeebda918d7d743c68f98",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/MCQ_J.xpt"
+  },
+  "SMQ_G.htm": {
+    "bytes": 111532,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "3529807a09e023bc374eaa52641bd152b45d099d5c768d6bdd628c0508257066",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/SMQ_G.htm"
+  },
+  "SMQ_G.xpt": {
+    "bytes": 1946960,
+    "cycle": "2011\u20132012",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "69f2375f036a815082b1e97110e79c505b91e0985c61696f8eaacf94828115dc",
+    "suffix": "G",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2011/datafiles/SMQ_G.xpt"
+  },
+  "SMQ_H.htm": {
+    "bytes": 125574,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "4f63f79bc3f743bde5c443283a222d5f7bfac689e4e1d92374eae9deb964345a",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/SMQ_H.htm"
+  },
+  "SMQ_H.xpt": {
+    "bytes": 2170000,
+    "cycle": "2013\u20132014",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "86d74bb8842ce6d60350944417cbd3e9ee39dd5a9fa1bda33426f276b673861f",
+    "suffix": "H",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/datafiles/SMQ_H.xpt"
+  },
+  "SMQ_I.htm": {
+    "bytes": 193205,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "295c85621a587d4f98a1c2d9bd0ad25730fc80b068ee92018bfb5e2fade947c4",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/SMQ_I.htm"
+  },
+  "SMQ_I.xpt": {
+    "bytes": 2681040,
+    "cycle": "2015\u20132016",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "529ce1c407e99dce937ca75d14c8c630e0c9c30a4a9a851760cd2884bbb28fe0",
+    "suffix": "I",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2015/datafiles/SMQ_I.xpt"
+  },
+  "SMQ_J.htm": {
+    "bytes": 160977,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "9859d76717b31135754247d509a1d559cce686f29c473ed96857fa8a64f36255",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/SMQ_J.htm"
+  },
+  "SMQ_J.xpt": {
+    "bytes": 2305600,
+    "cycle": "2017\u20132018",
+    "origin": "official CDC; J core inherited and checksum-preserved",
+    "sha256": "73c3708e540cbf520a566508aa629c3e4ba53cad77dae9388ca36384646455f4",
+    "suffix": "J",
+    "url": "https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/SMQ_J.xpt"
+  }
+}

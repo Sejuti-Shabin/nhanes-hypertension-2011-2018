@@ -1,0 +1,9 @@
+{
+  "reported_n": 5345,
+  "unawareness": 0.562,
+  "routine_care": 0.817,
+  "adjusted_PR": 1.2,
+  "CI_low": 1.12,
+  "CI_high": 1.29,
+  "source": "Only verified benchmark facts supplied in final task; paper formula/exclusions remain unknown"
+}

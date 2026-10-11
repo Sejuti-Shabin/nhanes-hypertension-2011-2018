@@ -1,0 +1,41 @@
+{
+  "regression": {
+    "rows": 393,
+    "passed": true
+  },
+  "descriptive": {
+    "rows": 9,
+    "passed": true
+  },
+  "table1": {
+    "rows": 70,
+    "passed": true
+  },
+  "marginal": {
+    "rows": 3,
+    "passed": true
+  },
+  "covariance": {
+    "entries": 4653,
+    "max_abs_difference": 3.4736477028118884e-09,
+    "passed": true
+  },
+  "r_raw_coding_validation": {
+    "checks": 39,
+    "passed": true
+  },
+  "r_domain_validation": {
+    "checks": 40,
+    "passed": true
+  },
+  "historical_J": {
+    "models": 3,
+    "passed": true,
+    "scope": "Actual previously calculated outputs compared; no benchmark fitting"
+  },
+  "R_JKn": {
+    "passed": true,
+    "replicates": 121,
+    "PIR_scope": "R-only executed sensitivity, not independent Python PIR validation"
+  }
+}

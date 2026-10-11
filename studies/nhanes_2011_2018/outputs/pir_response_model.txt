@@ -1,0 +1,1 @@
+pir_observed ~ uninsured * awareness + age10 + I(age10^2) + sex +      race + education + sbp_aux + dbp_aux + bp_missing + log_exam_weight +      cycle

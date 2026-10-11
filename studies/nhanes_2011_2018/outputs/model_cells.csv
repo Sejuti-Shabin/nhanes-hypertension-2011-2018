@@ -1,0 +1,418 @@
+model,variable,level,n,events,nonevents
+A2,sex,Female,2109,1036,1073
+A2,sex,Male,2821,1572,1249
+A2,race4,Black,1470,625,845
+A2,race4,Hispanic,1088,627,461
+A2,race4,Other,817,502,315
+A2,race4,White,1555,854,701
+A3,sex,Female,2109,1036,1073
+A3,sex,Male,2821,1572,1249
+A3,race4,Black,1470,625,845
+A3,race4,Hispanic,1088,627,461
+A3,race4,Other,817,502,315
+A3,race4,White,1555,854,701
+A3,college,Below college,3816,1959,1857
+A3,college,College graduate,1114,649,465
+A4,sex,Female,2109,1036,1073
+A4,sex,Male,2821,1572,1249
+A4,race4,Black,1470,625,845
+A4,race4,Hispanic,1088,627,461
+A4,race4,Other,817,502,315
+A4,race4,White,1555,854,701
+A4,college,Below college,3816,1959,1857
+A4,college,College graduate,1114,649,465
+A4,obese,0.0,2448,1451,997
+A4,obese,1.0,2482,1157,1325
+A4,smoking,Current,1164,582,582
+A4,smoking,Former,1041,507,534
+A4,smoking,Never,2725,1519,1206
+A2_stage,sex,Female,2394,1172,1222
+A2_stage,sex,Male,3153,1760,1393
+A2_stage,race4,Black,1692,732,960
+A2_stage,race4,Hispanic,1288,732,556
+A2_stage,race4,Other,916,561,355
+A2_stage,race4,White,1651,907,744
+A3_stage,sex,Female,2137,1044,1093
+A3_stage,sex,Male,2868,1598,1270
+A3_stage,race4,Black,1496,640,856
+A3_stage,race4,Hispanic,1108,638,470
+A3_stage,race4,Other,826,504,322
+A3_stage,race4,White,1575,860,715
+A3_stage,college,Below college,3886,1992,1894
+A3_stage,college,College graduate,1119,650,469
+A4_strict23,sex,Female,1984,964,1020
+A4_strict23,sex,Male,2741,1535,1206
+A4_strict23,race4,Black,1386,585,801
+A4_strict23,race4,Hispanic,1029,593,436
+A4_strict23,race4,Other,780,474,306
+A4_strict23,race4,White,1530,847,683
+A4_strict23,college,Below college,3647,1868,1779
+A4_strict23,college,College graduate,1078,631,447
+A4_strict23,obese,0.0,2340,1379,961
+A4_strict23,obese,1.0,2385,1120,1265
+A4_strict23,smoking,Current,1122,562,560
+A4_strict23,smoking,Former,1011,489,522
+A4_strict23,smoking,Never,2592,1448,1144
+A4_available23,sex,Female,2085,1012,1073
+A4_available23,sex,Male,2852,1605,1247
+A4_available23,race4,Black,1445,614,831
+A4_available23,race4,Hispanic,1078,619,459
+A4_available23,race4,Other,816,500,316
+A4_available23,race4,White,1598,884,714
+A4_available23,college,Below college,3811,1956,1855
+A4_available23,college,College graduate,1126,661,465
+A4_available23,obese,0.0,2435,1447,988
+A4_available23,obese,1.0,2502,1170,1332
+A4_available23,smoking,Current,1173,590,583
+A4_available23,smoking,Former,1055,513,542
+A4_available23,smoking,Never,2709,1514,1195
+A4_age20,sex,Female,2098,1028,1070
+A4_age20,sex,Male,2783,1537,1246
+A4_age20,race4,Black,1458,617,841
+A4_age20,race4,Hispanic,1075,614,461
+A4_age20,race4,Other,805,492,313
+A4_age20,race4,White,1543,842,701
+A4_age20,college,Below college,3767,1916,1851
+A4_age20,college,College graduate,1114,649,465
+A4_age20,obese,0.0,2423,1429,994
+A4_age20,obese,1.0,2458,1136,1322
+A4_age20,smoking,Current,1159,578,581
+A4_age20,smoking,Former,1041,507,534
+A4_age20,smoking,Never,2681,1480,1201
+A4_no_place_only,sex,Female,2113,1039,1074
+A4_no_place_only,sex,Male,2834,1583,1251
+A4_no_place_only,race4,Black,1472,627,845
+A4_no_place_only,race4,Hispanic,1095,633,462
+A4_no_place_only,race4,Other,818,503,315
+A4_no_place_only,race4,White,1562,859,703
+A4_no_place_only,college,Below college,3831,1971,1860
+A4_no_place_only,college,College graduate,1116,651,465
+A4_no_place_only,obese,0.0,2457,1459,998
+A4_no_place_only,obese,1.0,2490,1163,1327
+A4_no_place_only,smoking,Current,1172,588,584
+A4_no_place_only,smoking,Former,1043,509,534
+A4_no_place_only,smoking,Never,2732,1525,1207
+A4_single_place,no_routine,0.0,3980,1940,2040
+A4_single_place,no_routine,1.0,967,682,285
+A4_single_place,sex,Female,2113,1039,1074
+A4_single_place,sex,Male,2834,1583,1251
+A4_single_place,race4,Black,1472,627,845
+A4_single_place,race4,Hispanic,1095,633,462
+A4_single_place,race4,Other,818,503,315
+A4_single_place,race4,White,1562,859,703
+A4_single_place,college,Below college,3831,1971,1860
+A4_single_place,college,College graduate,1116,651,465
+A4_single_place,obese,0.0,2457,1459,998
+A4_single_place,obese,1.0,2490,1163,1327
+A4_single_place,smoking,Current,1172,588,584
+A4_single_place,smoking,Former,1043,509,534
+A4_single_place,smoking,Never,2732,1525,1207
+A4_exclude_ER,sex,Female,2040,998,1042
+A4_exclude_ER,sex,Male,2689,1488,1201
+A4_exclude_ER,race4,Black,1382,578,804
+A4_exclude_ER,race4,Hispanic,1047,599,448
+A4_exclude_ER,race4,Other,797,487,310
+A4_exclude_ER,race4,White,1503,822,681
+A4_exclude_ER,college,Below college,3631,1847,1784
+A4_exclude_ER,college,College graduate,1098,639,459
+A4_exclude_ER,obese,0.0,2351,1381,970
+A4_exclude_ER,obese,1.0,2378,1105,1273
+A4_exclude_ER,smoking,Current,1069,525,544
+A4_exclude_ER,smoking,Former,1005,485,520
+A4_exclude_ER,smoking,Never,2655,1476,1179
+A4_no_clinical,sex,Female,2137,1044,1093
+A4_no_clinical,sex,Male,2868,1598,1270
+A4_no_clinical,race4,Black,1496,640,856
+A4_no_clinical,race4,Hispanic,1108,638,470
+A4_no_clinical,race4,Other,826,504,322
+A4_no_clinical,race4,White,1575,860,715
+A4_no_clinical,college,Below college,3886,1992,1894
+A4_no_clinical,college,College graduate,1119,650,469
+A4_adult_education,sex,Female,2098,1028,1070
+A4_adult_education,sex,Male,2783,1537,1246
+A4_adult_education,race4,Black,1458,617,841
+A4_adult_education,race4,Hispanic,1075,614,461
+A4_adult_education,race4,Other,805,492,313
+A4_adult_education,race4,White,1543,842,701
+A4_adult_education,college_adult,Below college,3767,1916,1851
+A4_adult_education,college_adult,College graduate,1114,649,465
+A4_adult_education,obese,0.0,2423,1429,994
+A4_adult_education,obese,1.0,2458,1136,1322
+A4_adult_education,smoking,Current,1159,578,581
+A4_adult_education,smoking,Former,1041,507,534
+A4_adult_education,smoking,Never,2681,1480,1201
+A4_household_income,sex,Female,2112,1035,1077
+A4_household_income,sex,Male,2778,1544,1234
+A4_household_income,race4,Black,1459,618,841
+A4_household_income,race4,Hispanic,1076,616,460
+A4_household_income,race4,Other,810,496,314
+A4_household_income,race4,White,1545,849,696
+A4_household_income,college,Below college,3785,1936,1849
+A4_household_income,college,College graduate,1105,643,462
+A4_household_income,income,"20,000–44,999",1396,738,658
+A4_household_income,income,"45,000–74,999",1008,552,456
+A4_household_income,income,"75,000+",1437,808,629
+A4_household_income,income,"<20,000",1049,481,568
+A4_household_income,obese,0.0,2429,1439,990
+A4_household_income,obese,1.0,2461,1140,1321
+A4_household_income,smoking,Current,1142,571,571
+A4_household_income,smoking,Former,1030,500,530
+A4_household_income,smoking,Never,2718,1508,1210
+A4_cycle,sex,Female,2109,1036,1073
+A4_cycle,sex,Male,2821,1572,1249
+A4_cycle,race4,Black,1470,625,845
+A4_cycle,race4,Hispanic,1088,627,461
+A4_cycle,race4,Other,817,502,315
+A4_cycle,race4,White,1555,854,701
+A4_cycle,college,Below college,3816,1959,1857
+A4_cycle,college,College graduate,1114,649,465
+A4_cycle,obese,0.0,2448,1451,997
+A4_cycle,obese,1.0,2482,1157,1325
+A4_cycle,smoking,Current,1164,582,582
+A4_cycle,smoking,Former,1041,507,534
+A4_cycle,smoking,Never,2725,1519,1206
+A4_cycle,cycle,2011–2012,1209,639,570
+A4_cycle,cycle,2013–2014,1190,605,585
+A4_cycle,cycle,2015–2016,1255,672,583
+A4_cycle,cycle,2017–2018,1276,692,584
+I1,uninsured,0.0,5408,3301,2107
+I1,uninsured,1.0,1443,685,758
+I1_PR,uninsured,0.0,5408,3301,2107
+I1_PR,uninsured,1.0,1443,685,758
+I2,uninsured,0.0,5408,3301,2107
+I2,uninsured,1.0,1443,685,758
+I2,sex,Female,3176,2020,1156
+I2,sex,Male,3675,1966,1709
+I2_PR,uninsured,0.0,5408,3301,2107
+I2_PR,uninsured,1.0,1443,685,758
+I2_PR,sex,Female,3176,2020,1156
+I2_PR,sex,Male,3675,1966,1709
+I3,uninsured,0.0,4912,2989,1923
+I3,uninsured,1.0,1279,606,673
+I3,sex,Female,2849,1814,1035
+I3,sex,Male,3342,1781,1561
+I3,race,Asian,725,334,391
+I3,race,Black,1845,1221,624
+I3,race,Mexican American,782,392,390
+I3,race,Other Hispanic,568,331,237
+I3,race,Other/multiracial,231,127,104
+I3,race,White,2040,1190,850
+I3,education,Below high school,1293,769,524
+I3,education,College graduate,1392,740,652
+I3,education,High school/GED,1495,876,619
+I3,education,Some college/AA,2011,1210,801
+I3_PR,uninsured,0.0,4912,2989,1923
+I3_PR,uninsured,1.0,1279,606,673
+I3_PR,sex,Female,2849,1814,1035
+I3_PR,sex,Male,3342,1781,1561
+I3_PR,race,Asian,725,334,391
+I3_PR,race,Black,1845,1221,624
+I3_PR,race,Mexican American,782,392,390
+I3_PR,race,Other Hispanic,568,331,237
+I3_PR,race,Other/multiracial,231,127,104
+I3_PR,race,White,2040,1190,850
+I3_PR,education,Below high school,1293,769,524
+I3_PR,education,College graduate,1392,740,652
+I3_PR,education,High school/GED,1495,876,619
+I3_PR,education,Some college/AA,2011,1210,801
+I1_common,uninsured,0.0,4912,2989,1923
+I1_common,uninsured,1.0,1279,606,673
+I2_common,uninsured,0.0,4912,2989,1923
+I2_common,uninsured,1.0,1279,606,673
+I2_common,sex,Female,2849,1814,1035
+I2_common,sex,Male,3342,1781,1561
+I3_measured,uninsured,0.0,3810,1887,1923
+I3_measured,uninsured,1.0,1141,468,673
+I3_measured,sex,Female,2125,1090,1035
+I3_measured,sex,Male,2826,1265,1561
+I3_measured,race,Asian,622,231,391
+I3_measured,race,Black,1475,851,624
+I3_measured,race,Mexican American,639,249,390
+I3_measured,race,Other Hispanic,458,221,237
+I3_measured,race,Other/multiracial,192,88,104
+I3_measured,race,White,1565,715,850
+I3_measured,education,Below high school,1039,515,524
+I3_measured,education,College graduate,1121,469,652
+I3_measured,education,High school/GED,1180,561,619
+I3_measured,education,Some college/AA,1611,810,801
+I3_measured_PR,uninsured,0.0,3810,1887,1923
+I3_measured_PR,uninsured,1.0,1141,468,673
+I3_measured_PR,sex,Female,2125,1090,1035
+I3_measured_PR,sex,Male,2826,1265,1561
+I3_measured_PR,race,Asian,622,231,391
+I3_measured_PR,race,Black,1475,851,624
+I3_measured_PR,race,Mexican American,639,249,390
+I3_measured_PR,race,Other Hispanic,458,221,237
+I3_measured_PR,race,Other/multiracial,192,88,104
+I3_measured_PR,race,White,1565,715,850
+I3_measured_PR,education,Below high school,1039,515,524
+I3_measured_PR,education,College graduate,1121,469,652
+I3_measured_PR,education,High school/GED,1180,561,619
+I3_measured_PR,education,Some college/AA,1611,810,801
+I3_140,uninsured,0.0,3281,2694,587
+I3_140,uninsured,1.0,708,504,204
+I3_140,sex,Female,1966,1659,307
+I3_140,sex,Male,2023,1539,484
+I3_140,race,Asian,403,294,109
+I3_140,race,Black,1356,1124,232
+I3_140,race,Mexican American,463,346,117
+I3_140,race,Other Hispanic,360,292,68
+I3_140,race,Other/multiracial,136,109,27
+I3_140,race,White,1271,1033,238
+I3_140,education,Below high school,889,697,192
+I3_140,education,College graduate,833,653,180
+I3_140,education,High school/GED,993,785,208
+I3_140,education,Some college/AA,1274,1063,211
+I3_bp_complete,uninsured,0.0,4825,2902,1923
+I3_bp_complete,uninsured,1.0,1268,595,673
+I3_bp_complete,sex,Female,2781,1746,1035
+I3_bp_complete,sex,Male,3312,1751,1561
+I3_bp_complete,race,Asian,712,321,391
+I3_bp_complete,race,Black,1815,1191,624
+I3_bp_complete,race,Mexican American,772,382,390
+I3_bp_complete,race,Other Hispanic,558,321,237
+I3_bp_complete,race,Other/multiracial,228,124,104
+I3_bp_complete,race,White,2008,1158,850
+I3_bp_complete,education,Below high school,1267,743,524
+I3_bp_complete,education,College graduate,1372,720,652
+I3_bp_complete,education,High school/GED,1472,853,619
+I3_bp_complete,education,Some college/AA,1982,1181,801
+I3_readings23,uninsured,0.0,4932,2984,1948
+I3_readings23,uninsured,1.0,1272,613,659
+I3_readings23,sex,Female,2822,1810,1012
+I3_readings23,sex,Male,3382,1787,1595
+I3_readings23,race,Asian,722,332,390
+I3_readings23,race,Black,1828,1215,613
+I3_readings23,race,Mexican American,783,390,393
+I3_readings23,race,Other Hispanic,561,333,228
+I3_readings23,race,Other/multiracial,232,128,104
+I3_readings23,race,White,2078,1199,879
+I3_readings23,education,Below high school,1295,770,525
+I3_readings23,education,College graduate,1405,741,664
+I3_readings23,education,High school/GED,1500,876,624
+I3_readings23,education,Some college/AA,2004,1210,794
+I3_measured23,uninsured,0.0,3673,1809,1864
+I3_measured23,uninsured,1.0,1075,446,629
+I3_measured23,sex,Female,2000,1035,965
+I3_measured23,sex,Male,2748,1220,1528
+I3_measured23,race,Asian,591,219,372
+I3_measured23,race,Black,1391,807,584
+I3_measured23,race,Mexican American,605,228,377
+I3_measured23,race,Other Hispanic,435,216,219
+I3_measured23,race,Other/multiracial,188,91,97
+I3_measured23,race,White,1538,694,844
+I3_measured23,education,Below high school,991,493,498
+I3_measured23,education,College graduate,1085,451,634
+I3_measured23,education,High school/GED,1144,542,602
+I3_measured23,education,Some college/AA,1528,769,759
+I3_measured23_age18,uninsured,0.0,3673,1809,1864
+I3_measured23_age18,uninsured,1.0,1075,446,629
+I3_measured23_age18,sex,Female,2000,1035,965
+I3_measured23_age18,sex,Male,2748,1220,1528
+I3_measured23_age18,race,Asian,591,219,372
+I3_measured23_age18,race,Black,1391,807,584
+I3_measured23_age18,race,Mexican American,605,228,377
+I3_measured23_age18,race,Other Hispanic,435,216,219
+I3_measured23_age18,race,Other/multiracial,188,91,97
+I3_measured23_age18,race,White,1538,694,844
+I3_measured23_age18,education,Below high school,991,493,498
+I3_measured23_age18,education,College graduate,1085,451,634
+I3_measured23_age18,education,High school/GED,1144,542,602
+I3_measured23_age18,education,Some college/AA,1528,769,759
+I3_not_pregnant,uninsured,0.0,4897,2982,1915
+I3_not_pregnant,uninsured,1.0,1277,604,673
+I3_not_pregnant,sex,Female,2832,1805,1027
+I3_not_pregnant,sex,Male,3342,1781,1561
+I3_not_pregnant,race,Asian,724,333,391
+I3_not_pregnant,race,Black,1839,1218,621
+I3_not_pregnant,race,Mexican American,781,391,390
+I3_not_pregnant,race,Other Hispanic,566,331,235
+I3_not_pregnant,race,Other/multiracial,231,127,104
+I3_not_pregnant,race,White,2033,1186,847
+I3_not_pregnant,education,Below high school,1292,769,523
+I3_not_pregnant,education,College graduate,1389,739,650
+I3_not_pregnant,education,High school/GED,1489,871,618
+I3_not_pregnant,education,Some college/AA,2004,1207,797
+I3_omit_PIR,uninsured,0.0,5407,3300,2107
+I3_omit_PIR,uninsured,1.0,1443,685,758
+I3_omit_PIR,sex,Female,3176,2020,1156
+I3_omit_PIR,sex,Male,3674,1965,1709
+I3_omit_PIR,race,Asian,813,377,436
+I3_omit_PIR,race,Black,2074,1369,705
+I3_omit_PIR,race,Mexican American,902,464,438
+I3_omit_PIR,race,Other Hispanic,662,384,278
+I3_omit_PIR,race,Other/multiracial,258,145,113
+I3_omit_PIR,race,White,2141,1246,895
+I3_omit_PIR,education,Below high school,1499,899,600
+I3_omit_PIR,education,College graduate,1501,798,703
+I3_omit_PIR,education,High school/GED,1652,963,689
+I3_omit_PIR,education,Some college/AA,2198,1325,873
+I3_cycle,uninsured,0.0,4912,2989,1923
+I3_cycle,uninsured,1.0,1279,606,673
+I3_cycle,sex,Female,2849,1814,1035
+I3_cycle,sex,Male,3342,1781,1561
+I3_cycle,race,Asian,725,334,391
+I3_cycle,race,Black,1845,1221,624
+I3_cycle,race,Mexican American,782,392,390
+I3_cycle,race,Other Hispanic,568,331,237
+I3_cycle,race,Other/multiracial,231,127,104
+I3_cycle,race,White,2040,1190,850
+I3_cycle,education,Below high school,1293,769,524
+I3_cycle,education,College graduate,1392,740,652
+I3_cycle,education,High school/GED,1495,876,619
+I3_cycle,education,Some college/AA,2011,1210,801
+I3_cycle,cycle,2011–2012,1544,900,644
+I3_cycle,cycle,2013–2014,1541,944,597
+I3_cycle,cycle,2015–2016,1572,904,668
+I3_cycle,cycle,2017–2018,1534,847,687
+I3_quadratic_age,uninsured,0.0,4912,2989,1923
+I3_quadratic_age,uninsured,1.0,1279,606,673
+I3_quadratic_age,sex,Female,2849,1814,1035
+I3_quadratic_age,sex,Male,3342,1781,1561
+I3_quadratic_age,race,Asian,725,334,391
+I3_quadratic_age,race,Black,1845,1221,624
+I3_quadratic_age,race,Mexican American,782,392,390
+I3_quadratic_age,race,Other Hispanic,568,331,237
+I3_quadratic_age,race,Other/multiracial,231,127,104
+I3_quadratic_age,race,White,2040,1190,850
+I3_quadratic_age,education,Below high school,1293,769,524
+I3_quadratic_age,education,College graduate,1392,740,652
+I3_quadratic_age,education,High school/GED,1495,876,619
+I3_quadratic_age,education,Some college/AA,2011,1210,801
+I3_categorical_PIR,uninsured,0.0,4912,2989,1923
+I3_categorical_PIR,uninsured,1.0,1279,606,673
+I3_categorical_PIR,sex,Female,2849,1814,1035
+I3_categorical_PIR,sex,Male,3342,1781,1561
+I3_categorical_PIR,race,Asian,725,334,391
+I3_categorical_PIR,race,Black,1845,1221,624
+I3_categorical_PIR,race,Mexican American,782,392,390
+I3_categorical_PIR,race,Other Hispanic,568,331,237
+I3_categorical_PIR,race,Other/multiracial,231,127,104
+I3_categorical_PIR,race,White,2040,1190,850
+I3_categorical_PIR,education,Below high school,1293,769,524
+I3_categorical_PIR,education,College graduate,1392,740,652
+I3_categorical_PIR,education,High school/GED,1495,876,619
+I3_categorical_PIR,education,Some college/AA,2011,1210,801
+I3_categorical_PIR,pir_group,PIR >1–2,1589,925,664
+I3_categorical_PIR,pir_group,PIR >2,3186,1795,1391
+I3_categorical_PIR,pir_group,PIR ≤1,1416,875,541
+J1,uninsured,0.0,1467,846,621
+J1,uninsured,1.0,292,131,161
+J2,uninsured,0.0,1467,846,621
+J2,uninsured,1.0,292,131,161
+J2,sex,Female,816,478,338
+J2,sex,Male,943,499,444
+J3,uninsured,0.0,1292,738,554
+J3,uninsured,1.0,242,109,133
+J3,sex,Female,709,413,296
+J3,sex,Male,825,434,391
+J3,race,Asian,236,118,118
+J3,race,Black,438,273,165
+J3,race,Mexican American,196,81,115
+J3,race,Other Hispanic,122,72,50
+J3,race,Other/multiracial,85,45,40
+J3,race,White,457,258,199
+J3,education,Below high school,264,146,118
+J3,education,College graduate,347,184,163
+J3,education,High school/GED,379,201,178
+J3,education,Some college/AA,544,316,228

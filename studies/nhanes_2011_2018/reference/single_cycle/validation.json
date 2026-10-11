@@ -1,0 +1,38 @@
+{
+  "regression": {
+    "rows_compared": 235,
+    "passed": true
+  },
+  "descriptive": {
+    "rows_compared": 4,
+    "passed": true
+  },
+  "table1": {
+    "rows_compared": 40,
+    "passed": true
+  },
+  "marginal": {
+    "rows_compared": 3,
+    "passed": true
+  },
+  "full_covariance": {
+    "entries_compared": 2969,
+    "max_absolute_difference": 9.00809982162798e-12,
+    "passed": true
+  },
+  "independent_domains": {
+    "models": 21,
+    "passed": true
+  },
+  "raw_coding": {
+    "variables": 16,
+    "passed": true
+  },
+  "R_replicate_execution": {
+    "passed": true,
+    "marginal_replicates": 30,
+    "PIR_replicates": 30,
+    "Python_PIR_validation": false,
+    "scope": "Executed R replicate sensitivity; not an independent Python response-weighting verification"
+  }
+}

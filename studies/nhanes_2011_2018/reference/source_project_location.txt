@@ -1,0 +1,1 @@
+Historical baseline is bundled at ../nhanes_2017_2018; original workspace directory remained unchanged.

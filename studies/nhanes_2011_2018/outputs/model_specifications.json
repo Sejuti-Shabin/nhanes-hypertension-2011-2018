@@ -1,0 +1,698 @@
+[
+  {
+    "model": "A1",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care",
+    "family": "poisson",
+    "kind": "reconstructed approximate replication",
+    "scope": "pooled",
+    "domain_column": "model_domain_A1",
+    "rule": "care_common"
+  },
+  {
+    "model": "A2",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4",
+    "family": "poisson",
+    "kind": "reconstructed approximate replication",
+    "scope": "pooled",
+    "domain_column": "model_domain_A2",
+    "rule": "care_common"
+  },
+  {
+    "model": "A3",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir",
+    "family": "poisson",
+    "kind": "reconstructed approximate replication",
+    "scope": "pooled",
+    "domain_column": "model_domain_A3",
+    "rule": "care_common"
+  },
+  {
+    "model": "A4",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking",
+    "family": "poisson",
+    "kind": "reconstructed approximate replication",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4",
+    "rule": "care_common"
+  },
+  {
+    "model": "A1_stage",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care",
+    "family": "poisson",
+    "kind": "missingness sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A1_stage",
+    "rule": "care_stage"
+  },
+  {
+    "model": "A2_stage",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4",
+    "family": "poisson",
+    "kind": "missingness sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A2_stage",
+    "rule": "care_stage"
+  },
+  {
+    "model": "A3_stage",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir",
+    "family": "poisson",
+    "kind": "missingness sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A3_stage",
+    "rule": "care_stage"
+  },
+  {
+    "model": "A4_strict23",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_strict23",
+    "rule": "care_strict23"
+  },
+  {
+    "model": "A4_available23",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_available23",
+    "rule": "care_available"
+  },
+  {
+    "model": "A4_age20",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_age20",
+    "rule": "care_age20"
+  },
+  {
+    "model": "A4_no_place_only",
+    "outcome": "unawareness",
+    "variables": [
+      "no_any_place",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_any_place + age10 + sex + race4 + college + pir + obese + smoking",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_no_place_only",
+    "rule": "care_stage"
+  },
+  {
+    "model": "A4_single_place",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_routine + age10 + sex + race4 + college + pir + obese + smoking",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_single_place",
+    "rule": "care_stage"
+  },
+  {
+    "model": "A4_exclude_ER",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_exclude_ER",
+    "rule": "care_exclude_ER"
+  },
+  {
+    "model": "A4_no_clinical",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_no_clinical",
+    "rule": "care_stage"
+  },
+  {
+    "model": "A4_adult_education",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college_adult",
+      "pir",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college_adult + pir + obese + smoking",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_adult_education",
+    "rule": "care_stage"
+  },
+  {
+    "model": "A4_household_income",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "income",
+      "obese",
+      "smoking"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + income + obese + smoking",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_household_income",
+    "rule": "care_stage"
+  },
+  {
+    "model": "A4_cycle",
+    "outcome": "unawareness",
+    "variables": [
+      "no_routine_non_emergency_care",
+      "age10",
+      "sex",
+      "race4",
+      "college",
+      "pir",
+      "obese",
+      "smoking",
+      "cycle"
+    ],
+    "formula": "unawareness ~ no_routine_non_emergency_care + age10 + sex + race4 + college + pir + obese + smoking + cycle",
+    "family": "poisson",
+    "kind": "predeclared reconstruction sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_A4_cycle",
+    "rule": "care_stage"
+  },
+  {
+    "model": "I1",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured"
+    ],
+    "formula": "awareness ~ uninsured",
+    "family": "logit",
+    "kind": "primary",
+    "scope": "pooled",
+    "domain_column": "model_domain_I1",
+    "rule": "insurance"
+  },
+  {
+    "model": "I1_PR",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured"
+    ],
+    "formula": "awareness ~ uninsured",
+    "family": "poisson",
+    "kind": "insurance prevalence ratio",
+    "scope": "pooled",
+    "domain_column": "model_domain_I1_PR",
+    "rule": "insurance"
+  },
+  {
+    "model": "I2",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex",
+    "family": "logit",
+    "kind": "primary",
+    "scope": "pooled",
+    "domain_column": "model_domain_I2",
+    "rule": "insurance"
+  },
+  {
+    "model": "I2_PR",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex",
+    "family": "poisson",
+    "kind": "insurance prevalence ratio",
+    "scope": "pooled",
+    "domain_column": "model_domain_I2_PR",
+    "rule": "insurance"
+  },
+  {
+    "model": "I3",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "primary",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3",
+    "rule": "insurance"
+  },
+  {
+    "model": "I3_PR",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "poisson",
+    "kind": "insurance prevalence ratio",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_PR",
+    "rule": "insurance"
+  },
+  {
+    "model": "I1_common",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured"
+    ],
+    "formula": "awareness ~ uninsured",
+    "family": "logit",
+    "kind": "common sample sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I1_common",
+    "rule": "insurance_common"
+  },
+  {
+    "model": "I2_common",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex",
+    "family": "logit",
+    "kind": "common sample sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I2_common",
+    "rule": "insurance_common"
+  },
+  {
+    "model": "I3_measured",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_measured",
+    "rule": "I3_measured"
+  },
+  {
+    "model": "I3_measured_PR",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "poisson",
+    "kind": "measured-only PR sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_measured_PR",
+    "rule": "I3_measured"
+  },
+  {
+    "model": "I3_140",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_140",
+    "rule": "I3_140"
+  },
+  {
+    "model": "I3_bp_complete",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_bp_complete",
+    "rule": "I3_bp_complete"
+  },
+  {
+    "model": "I3_readings23",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_readings23",
+    "rule": "I3_readings23"
+  },
+  {
+    "model": "I3_measured23",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_measured23",
+    "rule": "I3_measured23"
+  },
+  {
+    "model": "I3_measured23_age18",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_measured23_age18",
+    "rule": "I3_measured23_age18"
+  },
+  {
+    "model": "I3_not_pregnant",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_not_pregnant",
+    "rule": "I3_not_pregnant"
+  },
+  {
+    "model": "I3_omit_PIR",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_omit_PIR",
+    "rule": "I3_omit_PIR"
+  },
+  {
+    "model": "I3_cycle",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir",
+      "cycle"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir + cycle",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_cycle",
+    "rule": "I3_cycle"
+  },
+  {
+    "model": "I3_quadratic_age",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir",
+      "age10_sq"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir + age10_sq",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_quadratic_age",
+    "rule": "I3_quadratic_age"
+  },
+  {
+    "model": "I3_categorical_PIR",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir_group"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir_group",
+    "family": "logit",
+    "kind": "insurance sensitivity",
+    "scope": "pooled",
+    "domain_column": "model_domain_I3_categorical_PIR",
+    "rule": "I3_categorical_PIR"
+  },
+  {
+    "model": "J1",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured"
+    ],
+    "formula": "awareness ~ uninsured",
+    "family": "logit",
+    "kind": "prior cycle reproduction",
+    "scope": "single_J",
+    "domain_column": "model_domain_J1",
+    "rule": "single_J"
+  },
+  {
+    "model": "J2",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex",
+    "family": "logit",
+    "kind": "prior cycle reproduction",
+    "scope": "single_J",
+    "domain_column": "model_domain_J2",
+    "rule": "single_J"
+  },
+  {
+    "model": "J3",
+    "outcome": "awareness",
+    "variables": [
+      "uninsured",
+      "age10",
+      "sex",
+      "race",
+      "education",
+      "pir"
+    ],
+    "formula": "awareness ~ uninsured + age10 + sex + race + education + pir",
+    "family": "logit",
+    "kind": "prior cycle reproduction",
+    "scope": "single_J",
+    "domain_column": "model_domain_J3",
+    "rule": "single_J"
+  }
+]

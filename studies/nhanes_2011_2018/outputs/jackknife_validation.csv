@@ -1,0 +1,6 @@
+"analysis","estimand","estimate","jackknife_se","taylor_se","ratio","replicates","flag"
+"Insurance","uninsured_beta",-0.504271652736585,0.105863843175727,0.105736789016421,1.00120160788395,121,"Within diagnostic range; not exact equivalence"
+"Insurance","Insured",0.578471754716406,0.0111343428493621,0.0111336908800704,1.00005855823543,121,"Within diagnostic range; not exact equivalence"
+"Insurance","Uninsured",0.464939562339787,0.0213044498041588,0.0212757046188476,1.00135108029681,121,"Within diagnostic range; not exact equivalence"
+"Insurance","Difference",-0.113532192376619,0.0238673000094366,0.0238403719799344,1.00112951381484,121,"Within diagnostic range; not exact equivalence"
+"Approximate replication","no_non_emergency_beta",0.235307972048513,0.0363446192665449,0.0363312303405357,1.00036852388107,121,"Within diagnostic range; not exact equivalence"

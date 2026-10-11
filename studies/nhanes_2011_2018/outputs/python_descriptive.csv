@@ -1,0 +1,10 @@
+analysis,group,variable,n,estimate,se,design_df,full_design_df
+Calixte attempt,All,unawareness,4930,0.5593973469192985,0.009775841561473595,62,62
+Calixte measured domain,All,unawareness,5565,0.5574468976218956,0.009288158407193655,62,62
+Calixte attempt,All,routine_non_emergency,4930,0.7886333323879336,0.008488574301130477,62,62
+Calixte measured domain,All,routine_non_emergency,5553,0.7861888271330529,0.008276321869621376,62,62
+Calixte attempt,Routine non-emergency place,unawareness,3789,0.5229244181492296,0.010502179789971925,62,62
+Calixte attempt,No routine non-emergency place,unawareness,1141,0.6954820365387558,0.01944062706046337,62,62
+Insurance extension,All,awareness,6851,0.5609920886217608,0.00958126184694526,62,62
+Insurance extension,Insured,awareness,5408,0.5823153951447003,0.011081678069522044,62,62
+Insurance extension,Uninsured,awareness,1443,0.4566038673486578,0.01784181865951863,62,62
